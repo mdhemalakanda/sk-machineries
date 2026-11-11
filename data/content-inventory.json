@@ -1,0 +1,2623 @@
+{
+  "site": "skmachineriesinternational.com",
+  "researchedAt": "2026-11-07",
+  "platform": {
+    "cms": "WordPress (generator meta: 'WordPress 7.0')",
+    "evidence": [
+      "generator meta tag 'WordPress 7.0'",
+      "Elementor 3.25.11 page builder (generator meta)",
+      "Slider Revolution 6.7.18 (generator meta + rs-slide markup on homepage)",
+      "Astra theme (ast- CSS classes, astra-theme-css-inline-css)",
+      "LiteSpeed Cache (wp-content/litespeed/ucss/*.css, data-lazyloaded attributes)",
+      "Contact Form 7 6.0.6 (wpcf7-f2352-o1 form on contact page)",
+      "open REST API /wp-json/wp/v2/ (pages & media enumerable)",
+      "native wp-sitemap.xml; robots.txt disallows /wp-admin/ only",
+      "cPanel hosting evidence: /webmail/ chooser page + port :2096 nav link, /cgi-sys/images/* referenced in 404 markup"
+    ]
+  },
+  "company": {
+    "name": "SK MACHINERY INTERNATIONAL (site title: 'SK Machineries International')",
+    "tagline": "It's a One-Stop Shop for Power, Heavy Earth Moving Construction Equipment",
+    "aboutSummary": "SK MACHINERY INTERNATIONAL is a One-Stop sales center for Power, Heavy Earth Moving Construction Equipment, Mining and Gas Generator Spare Parts. One of the leading hydraulic pump parts sellers in Bangladesh for Japanese, USA, European & Chinese excavators. Assists buyers with urgent, long-term and project-based spare parts. Delivers New Genuine, OEM and New Replacements parts.",
+    "history": "No company history, founding date, or timeline is published anywhere on the site.",
+    "missionVision": "None published (media library contains unused leftover images named mission.jpg, vission.jpeg, vision-and-mission-banner.jpg, mission2.jpg, mission34.jpg — not displayed on any page).",
+    "claims": [
+      "SK MACHINERY INTERNATIONAL Provides Spare parts for the Power, Heavy Earth moving Construction equipment, Mining and Gas generator.",
+      "Our Company Assists Buyers with their Urgent, Long term and Project based Spare parts.",
+      "SK MACHINERY INTERNATIONAL Delivers New Genuine , OEM and New Replacements parts from CTP, HANDOK, CATERPILLAR, CUMMINS, KOMATSU, MITSUBISHI, HYUNDAI, DAEWOO.",
+      "All Engine side new replacement parts of CTP Brand for Caterpillar Equipment are available in our ready stock",
+      "More than 100 Models of HANDOK BRAND HYDRAULIC Pump parts for Japanese Excavators are available in our stock.",
+      "SK MACHINERY INTERNATIONAL is one of the Leading hydraulic Pump Parts Seller in Bangladesh for Japanese, USA, European & Chinese Excavators.",
+      "we are authorized distributor for ITR, CTP, JIC & HANDOK (homepage 'who we are' slider)",
+      "ITR: Boasting 10 Distribution Centers throughout North America (ITR America copy reproduced on ITR product page)",
+      "ITR undercarriage parts have earned an excellent reputation in the Mining, Forestry, Construction and Roadbuilding industries"
+    ],
+    "distributorStatements": {
+      "ITR": "Undercarriage parts for all brands of equipment from Italy",
+      "CTP": "Replacement parts for Caterpillar equipment from USA",
+      "JIC": "Hydraulic pump, rotary kit for CAT, Kobelco, Komatsu, Sumitomo, Hitachi, Mitsubishi brand excavator from South Korea",
+      "Handok": "Hydraulic pump, it's rotary kit for CAT, Kobelco, Komatsu, Sumitomo, Hitachi and Mitsubishi brand excavator from South Korea"
+    },
+    "certifications": [
+      {
+        "label": "CTP Certification",
+        "imageCandidates": [
+          "https://skmachineriesinternational.com/wp-content/uploads/2022/08/image_6487327.jpg"
+        ],
+        "note": "mapping by DOM position (1st image)"
+      },
+      {
+        "label": "Handok Certification",
+        "imageCandidates": [
+          "https://skmachineriesinternational.com/wp-content/uploads/2022/08/certi3.jpg"
+        ],
+        "note": "mapping by DOM position (2nd image)"
+      },
+      {
+        "label": "JIC Certification",
+        "imageCandidates": [
+          "https://skmachineriesinternational.com/wp-content/uploads/2022/09/SK-MACHINERY-AUTHORISE-JIC-DISTRIBUTOR-CERTIFICATE-1.png"
+        ],
+        "note": "filename explicitly names JIC; shown 3rd"
+      }
+    ],
+    "footerCredit": "©2022 SK Machineries International | Designed & Developed by ZAMAN IT"
+  },
+  "contact": {
+    "addresses": [
+      "Office Suite #7B, 7th floor, Tropical Noor Tower, Lift-7 40, Kazi Nazrul Islam Avenue Karwan Bazar, Dhaka -1215 (Opposite of CA Bhaban)"
+    ],
+    "phones": [
+      "+8801715-068755 (site header top bar)",
+      "+88 02 8331895 (footer 'engage & experience')",
+      "+88 01715 068755 (footer 'engage & experience')"
+    ],
+    "emails": [
+      "Prothom04@gmail.com (footer; plain text, no mailto link)"
+    ],
+    "hours": "",
+    "hoursNote": "No opening hours published anywhere.",
+    "map": "",
+    "mapNote": "No Google Map embed or iframe found on any page.",
+    "social": [
+      {
+        "name": "Facebook",
+        "url": "",
+        "note": "icon present in footer & header, href empty"
+      },
+      {
+        "name": "Twitter",
+        "url": "",
+        "note": "icon present in footer & header, href empty"
+      },
+      {
+        "name": "Youtube",
+        "url": "",
+        "note": "icon present in footer, href empty"
+      }
+    ],
+    "whatsapp": [],
+    "whatsappNote": "No WhatsApp numbers or wa.me links found.",
+    "webmail": "Nav item WEBMAIL links to https://skmachineriesinternational.com:2096/ (cPanel webmail). https://skmachineriesinternational.com/webmail/ is a cPanel redirect chooser page ('cPanel Redirect Connection Selection ... port 2096 Enter Here').",
+    "form": {
+      "plugin": "Contact Form 7 (form id 2352, version 6.0.6)",
+      "action": "/contact-us/#wpcf7-f2352-o1",
+      "fields": [
+        {
+          "label": "First Name*",
+          "inputName": "your-name",
+          "type": "text",
+          "required": true,
+          "maxLength": 400
+        },
+        {
+          "label": "Last Name*",
+          "inputName": "your-name",
+          "type": "text",
+          "required": true,
+          "note": "duplicate name attribute 'your-name' — same as First Name"
+        },
+        {
+          "label": "Email*",
+          "inputName": "your-email",
+          "type": "email",
+          "required": true
+        },
+        {
+          "label": "Company Name",
+          "inputName": "your-company-name",
+          "type": "text",
+          "required": false
+        },
+        {
+          "label": "Phone*",
+          "inputName": "your-phone",
+          "type": "text",
+          "required": true
+        },
+        {
+          "label": "Project Type Product*",
+          "inputName": "project",
+          "type": "select",
+          "options": [
+            "Please Select",
+            "CTP PRODUCT",
+            "HANDOK PRODUCT",
+            "ITR PRODUCT",
+            "JIC PRODUCT"
+          ],
+          "required": true
+        },
+        {
+          "label": "Receive monthly updates covering marketing, strategy, design, and all things digital.",
+          "inputName": "updates",
+          "type": "checkbox",
+          "value": "updates",
+          "required": false
+        },
+        {
+          "label": "Message*",
+          "inputName": "your-message",
+          "type": "textarea",
+          "required": false,
+          "maxLength": 2000,
+          "note": "not marked aria-required"
+        },
+        {
+          "label": "Submit",
+          "inputName": "(submit)",
+          "type": "submit"
+        }
+      ]
+    }
+  },
+  "brands": [
+    "CTP (authorized distributor — replacement parts for Caterpillar equipment, USA)",
+    "HANDOK (authorized distributor — hydraulic pumps & rotary kits, South Korea)",
+    "ITR (authorized distributor — undercarriage parts, Italy)",
+    "JIC (authorized distributor — hydraulic pumps & rotary kits, South Korea)",
+    "CATERPILLAR (OEM parts source)",
+    "CUMMINS (OEM parts source)",
+    "KOMATSU (OEM parts source)",
+    "MITSUBISHI (OEM parts source)",
+    "HYUNDAI (OEM parts source)",
+    "DAEWOO (OEM parts source)"
+  ],
+  "services": [
+    "Spare parts supply for Power, Heavy Earth Moving Construction Equipment, Mining and Gas Generator",
+    "Urgent, Long term and Project based spare parts assistance for buyers",
+    "New Genuine, OEM and New Replacement parts supply",
+    "Ready stock of CTP engine-side replacement parts for Caterpillar equipment",
+    "Ready stock of 100+ HANDOK hydraulic pump part models for Japanese excavators"
+  ],
+  "industries": [
+    "Power",
+    "Heavy Earth Moving Construction Equipment",
+    "Mining",
+    "Gas Generator",
+    "Forestry (via ITR copy)",
+    "Roadbuilding (via ITR copy)",
+    "Construction",
+    "Excavation",
+    "Trenching (via CTP ground engaging tools copy)"
+  ],
+  "navigation": {
+    "header": [
+      "HOME",
+      "ABOUT US",
+      "CTP PRODUCT",
+      "HANDOK PRODUCT",
+      "ITR PRODUCT",
+      "JIC PRODUCT",
+      "CERTIFICATION",
+      "CONTACT US",
+      "WEBMAIL"
+    ],
+    "headerExtras": [
+      "phone +8801715-068755",
+      "search icon (site search form)"
+    ],
+    "footer": [
+      "HOME",
+      "ABOUT US",
+      "CONTACT US",
+      "WEBMAIL"
+    ],
+    "footerExtras": [
+      "Facebook icon (no link)",
+      "Twitter icon (no link)",
+      "Youtube icon (no link)",
+      "address, phones, email",
+      "©2022 SK Machineries International | Designed & Developed by ZAMAN IT"
+    ]
+  },
+  "categories": [
+    {
+      "name": "CTP PRODUCT",
+      "url": "https://skmachineriesinternational.com/ctp-product/",
+      "pageTitle": "CTP PRODUCT – SK Machineries International",
+      "brand": "CTP",
+      "productCount": 83,
+      "imagesOnPage": [],
+      "imagesOnPageNote": "No product images are displayed on this page — only site logo/favicon assets. The 14 'CATALOG FOR CTP & HANDOK' carousels contain empty slides (no image or content configured).",
+      "sections": [
+        {
+          "name": "Engine Components",
+          "intro": "CTP® engine parts are designed and manufactured to work hard as an integrated system. We continually improve our techniques to ensure you get quality products with the best technology available in the market. We are committed to lowering your total parts' cost, and maximizing your productivity. The following are some of the CTP Engine parts available:",
+          "partTypeList": [
+            "Cylinder Heads",
+            "Pistons",
+            "Liners",
+            "Valves",
+            "Camshafts",
+            "Connecting Rods",
+            "Turbochargers & Cartridges",
+            "Blocks",
+            "Covers",
+            "Belt Tightener",
+            "Engine Belts",
+            "Pulleys",
+            "Dampers",
+            "Piston Rings",
+            "Engine Bearings",
+            "Crankshafts",
+            "Inframe Overhaul Kit",
+            "Premium Overhaul Kits",
+            "Piston Pins",
+            "Flywheels",
+            "Plate Thrust",
+            "Connecting Rod Kits",
+            "Chambers",
+            "Manifolds",
+            "Mufflers",
+            "And more"
+          ]
+        },
+        {
+          "name": "POWER TRAIN",
+          "intro": "Power train components must hold up high impact loads and frequent changes of direction and movement. CTP® takes under account all these demands using testing procedures that simulate real-world applications. We constantly improve our techniques to ensure our clients receive quality products with the best technology at a competitive edge in a price sensitive market. Our goal is to provide CTP high quality Power train parts that are durable and maximize the productivity of your machine. The following are some of the CTP Power train replacement parts available for your heavy equipment:",
+          "partTypeList": [
+            "Final Drives",
+            "Yokes",
+            "Axles",
+            "Spindles",
+            "Drive Chains",
+            "Discs",
+            "Sockets",
+            "Torque Converters",
+            "Differentials Parts",
+            "Transmission Parts",
+            "Pumps",
+            "Cage",
+            "Flanges",
+            "Gears & Pinion",
+            "Plates",
+            "Joints & Spiders",
+            "Carriers",
+            "Steering Pumps",
+            "And more"
+          ]
+        },
+        {
+          "name": "HYDRAULIC PARTS",
+          "intro": "The hydraulic system transfers pressure through liquid to drive hydraulic machineries in the lifting of an object. CTP hydraulic parts help increase the force to get the desired power needed to operate your machine. For this reason, machines are constantly relying on their hydraulic system to perform at their optimum and most effective levels. CTP takes into account the importance of this and invest numerous hours into the development and testing of our hydraulic replacement parts. From control valves to the hoses and cylinders, CTP carries a large variety of hydraulic parts for your machine. The following are some of the CTP Hydraulic system replacement parts available for your heavy equipment:",
+          "partTypeList": [
+            "Hydraulic Cartridges",
+            "Hoses & Couplings",
+            "Hydraulic Barrels & Pistons",
+            "Hydraulic Pumps",
+            "Hydraulic Gears",
+            "Hydraulic Valves",
+            "Hydraulic Cylinders",
+            "Hydraulic Seals",
+            "Gerotor",
+            "Hydraulic Motors",
+            "Hydraulic Couplings",
+            "And More"
+          ]
+        },
+        {
+          "name": "Electrical Parts",
+          "intro": "CTP takes care of every aspect of your machine performance. Tested at our facilities to guarantee their proper working condition, CTP electrical parts are built to last and work in the most extreme environment conditions. The following are some of the CTP Electrical parts available for your heavy equipment:",
+          "partTypeList": [
+            "Starter",
+            "Governor Motor",
+            "Breakers",
+            "Electrical Brush",
+            "Fuse",
+            "Field Coils",
+            "Receptacle",
+            "Regulator",
+            "Electrical Relay",
+            "Sensors",
+            "Rheostat",
+            "Spark Plug",
+            "Starting Motor",
+            "Terminal",
+            "Thermocouple",
+            "Wires",
+            "Battery",
+            "Alternators",
+            "Solenoids",
+            "Switches",
+            "Glow Plugs",
+            "Armatures",
+            "Gauges",
+            "Air Dryer",
+            "Air Compressor",
+            "And more"
+          ]
+        },
+        {
+          "name": "FUEL INJECTION",
+          "intro": "CTP takes care of every aspect of your machine performance. Tested at our facilities to guarantee their proper working condition, CTP electrical parts are built to last and work in the most extreme environment conditions. The following are some of the CTP Electrical parts available for your heavy equipment:",
+          "partTypeList": [
+            "Nozzles",
+            "Injectors",
+            "Valve Service Group",
+            "Fuel Pumps",
+            "Fuel Valve",
+            "Priming pumps",
+            "Wrench Strap",
+            "Lines",
+            "Plunger & Barrel",
+            "And more"
+          ],
+          "note": "intro text duplicates the Electrical Parts intro verbatim (source-content error)"
+        },
+        {
+          "name": "Frame & Body",
+          "intro": "CTP® uses the latest top of the line technology to improve the wear life and strength of your heavy equipment. CTP® Frame & Body parts are guaranteed to offer extreme protection for your machine even under the most adverse conditions. The following are some of the CTP Frame & Body parts available for your heavy equipment:",
+          "partTypeList": [
+            "Guards & Shields",
+            "Frame Assemblies",
+            "Bucket Controls",
+            "Supports",
+            "Bogies",
+            "Pin Assemblies",
+            "Equalizer Bars",
+            "Wear Strips",
+            "Counterweights Assemblies",
+            "Cleaner Bars",
+            "Bogie Pins",
+            "And more"
+          ]
+        },
+        {
+          "name": "Undercarriage",
+          "intro": "Undercarriage components work as a system to move the machine in any type of terrain. CTP® produces high quality undercarriage parts to keep your machine running productively without delays. Undercarriage components can account for a large amount of the repair investment you make over the life of the machine. For this reason, CTP® offers the best high quality undercarriage replacement parts, while giving customers the ability to obtain significant savings to reduce repairs cost on their machine. The following are some of the CTP® undercarriage replacement parts available for your machine:",
+          "partTypeList": [
+            "Track Rollers",
+            "Carrier Rollers",
+            "Link Assemblies",
+            "Sprockets",
+            "Idlers",
+            "Spring Assemblies",
+            "Track Adjuster & Recoil",
+            "Track Shoes",
+            "Track Guides",
+            "Track Pins & Bushings",
+            "And more"
+          ]
+        },
+        {
+          "name": "Ground Engaging Tools",
+          "intro": "Top quality ground engaging tools make a big difference on how well your machine performs. CTP offers top quality ground engaging tools for all earth-moving equipment such as Loaders, Excavators, Backhoe, Dozers, Rippers, Motor Graders, Paving Products and Scrapers. We are proud to offer high quality ground engaging tools with the latest designed shapes for outstanding performance and value in a wide range of applications. Whether you are in the business of construction, excavation, mining, trenching or any other earth-moving enterprise, the value you demand for your money can be found in CTP ground engaging tools. The following are some of the CTP Ground Engaging tools available for your heavy equipment:",
+          "partTypeList": [
+            "Cutting Edges",
+            "Teeth",
+            "Segments",
+            "Ripper Shanks",
+            "Adapters",
+            "Sidecutters",
+            "Pins and Retainers",
+            "End Bits",
+            "Blades",
+            "Router-Bits",
+            "And more"
+          ]
+        },
+        {
+          "name": "Hardware",
+          "intro": "For CTP®, it is imperative to ensure the quality of its products. For this reason we are very selective when it comes to selecting the different materials for the elaboration of our hardware. Many customers rely on CTP® hardware for all their needs because it provides maximum strength, maximum selection and maximum value. CTP meets the following quality standards & norms for our hardware: (DIN) German norms; (SAE) grade 8 and (DIN) 10.9 strength specifications. Our hardware inventory is abundant and stocked with nuts, bolts and screws from the most basics ones, to the most exclusive in the market. The following are some of the categories of CTP hardware parts available:",
+          "qualityStandards": [
+            "(DIN) German norms",
+            "(SAE) grade 8 and (DIN) 10.9 strength specifications"
+          ],
+          "partTypeList": [
+            "Bolts",
+            "Track Bolts",
+            "Plow Bolts",
+            "Nuts",
+            "Washers",
+            "Pins",
+            "Rivets",
+            "Screws",
+            "Snap Rings",
+            "Studs",
+            "Woodruff Key",
+            "Eye Bolts",
+            "Cutter Pins",
+            "Plugs",
+            "And more"
+          ]
+        },
+        {
+          "name": "Cooling Systems",
+          "intro": "The main function of the cooling system is to remove excess heat from the engine. CTP cooling systems components are engineered and tested to make sure the engine on your machine operates at its most efficient temperature at all times. The following are some of the CTP cooling system replacement parts available:",
+          "partTypeList": [
+            "Standard Fans",
+            "Reversible Fans",
+            "Radiator Cores",
+            "Radiator Parts",
+            "Core Assemblies",
+            "Water Pump",
+            "Thermostats",
+            "Regulators",
+            "Chemical Additives",
+            "Oil Coolers",
+            "Hoses And Clamps",
+            "And more"
+          ]
+        },
+        {
+          "name": "CTP Filters",
+          "intro": "The role of the filters (oil, fuel, air, hydraulic) is to prevent dust, dirt and debris from entering all the critical systems of your machine that cause poor performance and a shorter operating life. For this reason, CTP® filters are engineered to provide maximum protection, increase productivity and ultimately save on the operating cost of your machine. At CTP® we offer a complete range of high quality filtration and separation products to meet your repair needs. The following are some of the CTP® filtration and separator products available for your heavy equipment:",
+          "partTypeList": [
+            "Oil Filters",
+            "Fuel Filters",
+            "Hydraulic Filters",
+            "Powertrain Filters",
+            "Air Filters",
+            "Filter Service Indicators",
+            "Separators",
+            "Pre-Cleaners",
+            "Strainers",
+            "And more"
+          ]
+        },
+        {
+          "name": "Seals and Gaskets",
+          "intro": "CTP develops, manufactures, and stocks a complete line of seals and gaskets for Caterpillar® equipment assembled into kits at our facilities. Gaskets are produced from Interface® materials that are all environmentally friendly, free of solvents and asbestos. CTP seals and gaskets are made with high technology tools to guarantee an exact dimension and a proper fit, reducing the risk of leakage and increasing their operational life. At CTP you are guaranteed to get high quality gaskets and die cut parts at competitive prices with superior quality. These are some of the seals and gasket products that we offer:",
+          "partTypeList": [
+            "Oil Rings",
+            "Wear Rings",
+            "Metal Face Seals",
+            "Oil Seals",
+            "Back-up Seals",
+            "Buffer Seals",
+            "Crankshaft Seals",
+            "Camshaft Seals",
+            "Hydraulic Seals",
+            "Cork Gaskets",
+            "Metal Gaskets",
+            "Paper Gaskets",
+            "Rubber Gaskets",
+            "Shims",
+            "Engine Gasket Kits",
+            "Gasket kits for all Systems",
+            "And more"
+          ]
+        },
+        {
+          "name": "Braking",
+          "intro": "The parts in the braking system work as hard as those in any other system in your machine. CTP® Breaking replacement parts are rigorously inspected to ensure your safety. CTP® offers everything you need for the repair and maintenance of your equipment's braking system. The following are some of the CTP® parts available for your braking system:",
+          "partTypeList": [
+            "Rotochamber",
+            "Actuator & Chamber",
+            "Lining & Pads",
+            "Shoes",
+            "Pedals",
+            "Reservoir",
+            "Brake Slack Adjuster",
+            "Anchor Pins",
+            "Plates",
+            "Boots",
+            "Friction Discs",
+            "Diaphragm",
+            "Drums",
+            "Springs",
+            "Braking Valves",
+            "Master Cylinder",
+            "Shield Expanders",
+            "And more"
+          ]
+        },
+        {
+          "name": "CTP Rubber Tracks",
+          "intro": "CTP® rubber tracks are made out of metal core, rubber and steel cord; the finished product forms a continuous type structure. The construction of the rubber track incorporates 3 wound up metal cores, which results in increased bend ability of the track when the crawler is in action. The material and structure of the rubber tracks ultimately provide a low vibration and reduction in noise levels. Reinforced edges are designed with thicker rubber added between the lugs. This reduces the incidence of slicing of the edges resulting in a longer operating cycle.",
+          "specialFeatures": [
+            "3 Metal Cores Wound Up: Higher durability & Better flexibility",
+            "Smaller Contact Surface (Smaller Lug) : Better grip & traction",
+            "Bi Directional: Tracks are Interchangeable",
+            "Reinforced Edges Between Lugs: decreasing the chance of slicing",
+            "Jointless: Track is much stronger than the joint type"
+          ]
+        },
+        {
+          "name": "More CTP Products",
+          "intro": "At CTP® we believe that working on a safer and more comfortable environment makes workdays more productive. For this reason, one of CTP's top priorities is to provide heavy machinery operators the tools and accessories to make their job easier and more productive. From comfortable seats, additives, paints, and chemicals to sizing tools and other products that aid in the workload, CTP® has what you need. The following are some of the CTP® Accessories available for your heavy equipment",
+          "partTypeList": [
+            "Seats",
+            "Belts",
+            "Temperature tools",
+            "Cabin Glasses",
+            "Chemicals",
+            "Additives",
+            "Coolant and Battery Testers",
+            "Alarms",
+            "Paint",
+            "Mirrors",
+            "Horns",
+            "Wipers",
+            "Metal bins",
+            "Hand Cleaner Towels",
+            "And More"
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": "Piston Kits",
+          "section": "Engine Components",
+          "type": "card",
+          "description": "Piston Kits come with: Piston, Piston Rings, Retainers, and Piston Pin",
+          "specifications": {},
+          "features": [],
+          "applications": [],
+          "brand": "CTP",
+          "images": []
+        },
+        {
+          "name": "Liner Kits",
+          "section": "Engine Components",
+          "type": "card",
+          "description": "Our liner kits come complete with: The piston, pin, liner, gasket kit, rings, retainers, and seals.",
+          "specifications": {},
+          "features": [],
+          "applications": [],
+          "brand": "CTP",
+          "images": [],
+          "note": "card appears twice in the Engine Components carousel (duplicate within page)"
+        },
+        {
+          "name": "Remanufactured Blocks",
+          "section": "Engine Components",
+          "type": "card",
+          "description": "Short Block: When your cylinder head is in good condition and you are able to refinish it. Long Block: If the Cylinder Head is cracked or out of specks. Medium Block: The medium block is designed for those customers looking for a happy medium. The cylinder head might be damaged yet the oil pump is still in good condition.",
+          "specifications": {},
+          "features": [],
+          "applications": [],
+          "brand": "CTP",
+          "images": []
+        },
+        {
+          "name": "Connecting Rods",
+          "section": "Engine Components",
+          "type": "additionalInformation",
+          "description": "CTP® Connecting Rods are made from steel forgings (malleable or spheroid-graphite iron casting or sinter forgings are beginning to be used for smaller engines).",
+          "specifications": {},
+          "features": [],
+          "applications": [],
+          "brand": "CTP",
+          "images": []
+        },
+        {
+          "name": "Camshafts",
+          "section": "Engine Components",
+          "type": "additionalInformation",
+          "description": "CTP camshafts ensure long-term operation efficiency as a result of careful and quality based production. CTP guarantees low wear and tear camshafts, as well as long-life, smooth running engines.",
+          "specifications": {},
+          "features": [],
+          "applications": [],
+          "brand": "CTP",
+          "images": []
+        },
+        {
+          "name": "Engine Bearings",
+          "section": "Engine Components",
+          "type": "additionalInformation",
+          "description": "CTP® Copper/Lead bearings are made of a sintered trimetal with a base alloy of copper, lead and tin with a nickel dam and Babbitt top layer.",
+          "specifications": {},
+          "features": [],
+          "applications": [],
+          "brand": "CTP",
+          "images": []
+        },
+        {
+          "name": "Stators",
+          "section": "POWER TRAIN",
+          "type": "card",
+          "description": "Stators are located at the center of the Torque Converter. They redirect the fluid returning from the turbine before it hits the pump again, increasing the efficiency of the Torque Converter. CTP stocks a wide variety of Stators available to match and repair specific applications.",
+          "specifications": {},
+          "features": [],
+          "applications": [],
+          "brand": "CTP",
+          "images": []
+        },
+        {
+          "name": "Carriers",
+          "section": "POWER TRAIN",
+          "type": "card",
+          "description": "CTP carriers are produced from quality cast iron and tempered to remove any stress due to processing.",
+          "specifications": {},
+          "features": [],
+          "applications": [],
+          "brand": "CTP",
+          "images": []
+        },
+        {
+          "name": "Chains",
+          "section": "POWER TRAIN",
+          "type": "card",
+          "description": "CTP provides large selection of high quality rugged drive chains and components to increase efficiency and resistance of your machine.",
+          "specifications": {},
+          "features": [],
+          "applications": [],
+          "brand": "CTP",
+          "images": []
+        },
+        {
+          "name": "Joints & Spiders",
+          "section": "POWER TRAIN",
+          "type": "card",
+          "description": "CTP high quality universal joints and spider assemblies are available in a complete range of sizes for virtually any type of equipment or application.",
+          "specifications": {},
+          "features": [],
+          "applications": [],
+          "brand": "CTP",
+          "images": []
+        },
+        {
+          "name": "Torque Converter",
+          "section": "POWER TRAIN",
+          "type": "additionalInformation",
+          "description": "Are an essential part of your automatic transmission. They not only allow your vehicle to come to a complete stop without stalling the engine, but also provide more torque when accelerating out of a stop, ultimately, giving you more control over your machine's movements.",
+          "specifications": {},
+          "features": [],
+          "applications": [],
+          "brand": "CTP",
+          "images": []
+        },
+        {
+          "name": "Differential Assembly",
+          "section": "POWER TRAIN",
+          "type": "additionalInformation",
+          "description": "A differential assembly of a machine includes a ring gear, first and second differential side gears and a plurality of pinions configured to mesh with the first and second side gears, and mounted on at least one pinion support pin.",
+          "specifications": {},
+          "features": [],
+          "applications": [],
+          "brand": "CTP",
+          "images": []
+        },
+        {
+          "name": "Transmission",
+          "section": "POWER TRAIN",
+          "type": "additionalInformation",
+          "description": "Is a critical part of a machine's power train. Its function is to take the output from the engine and manipulate it to control speed, direction and torque. Using CTP Powertrain parts can help ensure longer life for your transmission and reduce machine downtime.",
+          "specifications": {},
+          "features": [],
+          "applications": [],
+          "brand": "CTP",
+          "images": []
+        },
+        {
+          "name": "Hydraulic Hoses & Couplings",
+          "section": "HYDRAULIC PARTS",
+          "type": "card",
+          "description": "CTP offers wide variety of hydraulic hoses and couplings made with best materials and lasts technology to guarantee durability and resistance.",
+          "specifications": {},
+          "features": [],
+          "applications": [],
+          "brand": "CTP",
+          "images": []
+        },
+        {
+          "name": "Hydraulic Cartridges",
+          "section": "HYDRAULIC PARTS",
+          "type": "card",
+          "description": "CTP Cartridges come in special protective foam to ensure proper handle to its destination. With an improved appearance, CTP Cartridges achieve to reduce the noise levels. Viton® Rings are Included.",
+          "specifications": {},
+          "features": [],
+          "applications": [],
+          "brand": "CTP",
+          "images": []
+        },
+        {
+          "name": "Hydraulic Pumps",
+          "section": "HYDRAULIC PARTS",
+          "type": "card",
+          "description": "Hydraulic pumps provide oil to all hydraulic motors in the system. CTP Stocks reliable hydraulic pumps that provide excellent performance capabilities in demanding condition.",
+          "specifications": {},
+          "features": [],
+          "applications": [],
+          "brand": "CTP",
+          "images": []
+        },
+        {
+          "name": "Hydraulic Cylinders",
+          "section": "HYDRAULIC PARTS",
+          "type": "card",
+          "description": "CTP Hydraulic Cylinders are on the job every day, with superior strength and dent resistance reducing costly maintenance and downtime.",
+          "specifications": {},
+          "features": [],
+          "applications": [],
+          "brand": "CTP",
+          "images": []
+        },
+        {
+          "name": "Gear Pump",
+          "section": "HYDRAULIC PARTS",
+          "type": "additionalInformation",
+          "description": "With its intermeshing gears that displace fluid they help in the creation of mechanical power. Gear pumps can have external or internal gears.",
+          "specifications": {},
+          "features": [],
+          "applications": [],
+          "brand": "CTP",
+          "images": []
+        },
+        {
+          "name": "Piston Pump",
+          "section": "HYDRAULIC PARTS",
+          "type": "additionalInformation",
+          "description": "Hydraulic piston pumps are classified based on the piston position. They are differentiated as axial and radial hydraulic pumps.",
+          "specifications": {},
+          "features": [],
+          "applications": [],
+          "brand": "CTP",
+          "images": []
+        },
+        {
+          "name": "Alternators",
+          "section": "Electrical Parts",
+          "type": "card",
+          "description": "At CTP, all of the alternators go through extensive testing and quality control measures throughout the production process.",
+          "specifications": {},
+          "features": [],
+          "applications": [],
+          "brand": "CTP",
+          "images": []
+        },
+        {
+          "name": "Batteries",
+          "section": "Electrical Parts",
+          "type": "card",
+          "description": "CTP batteries provide plenty of cold cranking power for easy starting and ample reserve power to handle the cycling demands of commercial applications.",
+          "specifications": {},
+          "features": [],
+          "applications": [],
+          "brand": "CTP",
+          "images": []
+        },
+        {
+          "name": "Electrical Terminals",
+          "section": "Electrical Parts",
+          "type": "card",
+          "description": "Corrosion around electrical terminals can lead to loss of current. In order to keep the electrical systems running use non-corrosive CTP Electrical Terminals.",
+          "specifications": {},
+          "features": [],
+          "applications": [],
+          "brand": "CTP",
+          "images": []
+        },
+        {
+          "name": "Glow Plugs",
+          "section": "Electrical Parts",
+          "type": "card",
+          "description": "CTP Glow plugs feature a Tube Alloy that offers a higher resistance to theerosion produced into the combustion chamber. The internal resistance re-design produces a higher durability.",
+          "specifications": {},
+          "features": [],
+          "applications": [],
+          "brand": "CTP",
+          "images": []
+        },
+        {
+          "name": "Gauges",
+          "section": "Electrical Parts",
+          "type": "additionalInformation",
+          "description": "At CTP® we cover a broad spectrum of gauges for all of your machine's needs. From Electrical Temperature Gauges to Mechanical Pressure Gauges our state-of-the-art technology will allow you to get any needed measurements with accurate results.",
+          "specifications": {},
+          "features": [],
+          "applications": [],
+          "brand": "CTP",
+          "images": []
+        },
+        {
+          "name": "Armatures",
+          "section": "Electrical Parts",
+          "type": "additionalInformation",
+          "description": "Are electromagnets located inside an electrical motor. Armatures are composed of thin metal plates stacked together forming poles, with thin copper wire coiled around each pole.",
+          "specifications": {},
+          "features": [],
+          "applications": [],
+          "brand": "CTP",
+          "images": []
+        },
+        {
+          "name": "Solenoids",
+          "section": "Electrical Parts",
+          "type": "additionalInformation",
+          "description": "CTP carries both, starting motor solenoids and fuel shutoff solenoids all built with the quality you come to expect from all CTP parts.",
+          "specifications": {},
+          "features": [],
+          "applications": [],
+          "brand": "CTP",
+          "images": []
+        },
+        {
+          "name": "Injectors",
+          "section": "FUEL INJECTION",
+          "type": "card",
+          "description": "Our rigorous inspection process ensures CTP injectors have the right fuel delivery, uniformity, injecting angle and atomization to increased fuel efficiency and performance.",
+          "specifications": {},
+          "features": [],
+          "applications": [],
+          "brand": "CTP",
+          "images": []
+        },
+        {
+          "name": "Pencil Nozzle",
+          "section": "FUEL INJECTION",
+          "type": "card",
+          "description": "Pencil Nozzle is one of the main components of fuel injection systems. It regulates the flow of fuel to the ultimate ignition Compartment. Demand CTP Pencil Nozzles to minimize operation costs.",
+          "specifications": {},
+          "features": [],
+          "applications": [],
+          "brand": "CTP",
+          "images": []
+        },
+        {
+          "name": "Plungers & Barrels",
+          "section": "FUEL INJECTION",
+          "type": "card",
+          "description": "CTP Plungers & Barrels are optimized parts that will assure you achieve an upgrade on your fuel system as well as the desired engine performance.",
+          "specifications": {},
+          "features": [],
+          "applications": [],
+          "brand": "CTP",
+          "images": []
+        },
+        {
+          "name": "Fuel Assembly Lines",
+          "section": "FUEL INJECTION",
+          "type": "card",
+          "description": "At CTP we have a complete reference of Fuel Assembly Lines for your convenience. We guarantee a top quality product that will carry fuel, oil and lubricants under low as well as high pressure and high temperature.",
+          "specifications": {},
+          "features": [],
+          "applications": [],
+          "brand": "CTP",
+          "images": []
+        },
+        {
+          "name": "Direct Injection",
+          "section": "FUEL INJECTION",
+          "type": "additionalInformation",
+          "description": "The Injector nozzle protrudes directly into the cylinder space through the head and sprays diesel directly into the combustion space. Typically these types of engines require minimal to no glow plugs at start up. They are implemented with electronic fuel injectors and an engine computer telling the injectors when to open and close to allow pressurized fuel to pass into the engine.",
+          "specifications": {},
+          "features": [],
+          "applications": [],
+          "brand": "CTP",
+          "images": []
+        },
+        {
+          "name": "Indirect Injection",
+          "section": "FUEL INJECTION",
+          "type": "additionalInformation",
+          "description": "The injector nozzle does not protrude through the head, rather it injects into a separate chamber within the head. The expanding gases spread from the pre-combustion chamber into the cylinder for the firing stroke. Some diesel engines also have pre-combustion nozzles in the pre-combustion chamber.",
+          "specifications": {},
+          "features": [],
+          "applications": [],
+          "brand": "CTP",
+          "images": []
+        },
+        {
+          "name": "Equalizer Bars",
+          "section": "Frame & Body",
+          "type": "card",
+          "description": "Made with the toughest steel available in the industry, CTP Equalizer Bars are designed and engineered to reduce downtime and prolong the life of the machine.",
+          "specifications": {},
+          "features": [],
+          "applications": [],
+          "brand": "CTP",
+          "images": []
+        },
+        {
+          "name": "Bogie Pins",
+          "section": "Frame & Body",
+          "type": "card",
+          "description": "We use the highest quality raw materials in all our CTP Bogie Pins to provide longer service life. The centre bushing & core pin are case hardened internally.",
+          "specifications": {},
+          "features": [],
+          "applications": [],
+          "brand": "CTP",
+          "images": []
+        },
+        {
+          "name": "Frames",
+          "section": "Frame & Body",
+          "type": "card",
+          "description": "CTP Frames are built to absorb high impact shock loads and twisting forces on the machine even in the harshest environments. It is made with high quality steel castings to increase the strength of the main case.",
+          "specifications": {},
+          "features": [],
+          "applications": [],
+          "brand": "CTP",
+          "images": []
+        },
+        {
+          "name": "Bogies",
+          "section": "Frame & Body",
+          "type": "card",
+          "description": "CTP bogies are designed to offer top class quality suspension, stability, and safety by absorbing vibration and minimizing centrifugal forces.",
+          "specifications": {},
+          "features": [],
+          "applications": [],
+          "brand": "CTP",
+          "images": []
+        },
+        {
+          "name": "Idlers",
+          "section": "Undercarriage",
+          "type": "card",
+          "description": "CTP offers idlers that are made of premium quality cast steel. Using state of the art technology, idlers undergo a special heat treatment that provides them with long durability and smoothness.",
+          "specifications": {},
+          "features": [],
+          "applications": [],
+          "brand": "CTP",
+          "images": []
+        },
+        {
+          "name": "Track links",
+          "section": "Undercarriage",
+          "type": "card",
+          "description": "CTP Track Links have excellent wear resistance, even in the most severe working conditions. This is assured by modern rail induction hardening systems. This process offers the necessary control and accuracy to focus the heat to a specific area of the part.",
+          "specifications": {},
+          "features": [],
+          "applications": [],
+          "brand": "CTP",
+          "images": []
+        },
+        {
+          "name": "Track adjuster & recoil",
+          "section": "Undercarriage",
+          "type": "card",
+          "description": "CTP Track adjuster & recoil ensure optimum shock absorbance, protects your machine from grease leakage and reduces the risk of compressing and releasing the spring.",
+          "specifications": {},
+          "features": [],
+          "applications": [],
+          "brand": "CTP",
+          "images": []
+        },
+        {
+          "name": "Rollers",
+          "section": "Undercarriage",
+          "type": "card",
+          "description": "All CTP Rollers are produced with cutting edge processes such as rotator friction welding robots or induction heat treatments to ensure proper hardness levels. They are highly praised in the market as a product with a long wear life, and impact resistance.",
+          "specifications": {},
+          "features": [],
+          "applications": [],
+          "brand": "CTP",
+          "images": []
+        },
+        {
+          "name": "Sprockets & Rims",
+          "section": "Undercarriage",
+          "type": "additionalInformation",
+          "description": "CTP sprockets provide a high resistance and durability even under the toughest circumstances. They are of extraordinary quality due to the perfect combination of high quality cast steel and an advanced heat treatment technology.",
+          "specifications": {},
+          "features": [],
+          "applications": [],
+          "brand": "CTP",
+          "images": []
+        },
+        {
+          "name": "Track Shoes",
+          "section": "Undercarriage",
+          "type": "additionalInformation",
+          "description": "CTP track shoes are heat treated to provide a higher tensile strength to resist bending and breaking in high impact conditions. We stock a variety of track shoes options to meet the requirements of your work environment.",
+          "specifications": {},
+          "features": [],
+          "applications": [],
+          "brand": "CTP",
+          "images": []
+        },
+        {
+          "name": "Self-Sharpening Teeth",
+          "section": "Ground Engaging Tools",
+          "type": "card",
+          "description": "CTP Self-sharpening teeth come with more penetrating capabilities. Cut Down replacement costs by keeping a sharp point throughout the tooth's life.",
+          "specifications": {},
+          "features": [],
+          "applications": [],
+          "brand": "CTP",
+          "images": []
+        },
+        {
+          "name": "End Bits",
+          "section": "Ground Engaging Tools",
+          "type": "card",
+          "description": "CTP End Bits provide superior strength, longer wear life and increased the productivity of the machine. They are designed to move more material over a longer period with less downtime.",
+          "specifications": {},
+          "features": [],
+          "applications": [],
+          "brand": "CTP",
+          "images": []
+        },
+        {
+          "name": "Dozer blades",
+          "section": "Ground Engaging Tools",
+          "type": "card",
+          "description": "CTP Dozer blades are designed and manufactured from a boron steel to ensure productivity and provide the best performance in your machine even in the harshest dozing environments.",
+          "specifications": {},
+          "features": [],
+          "applications": [],
+          "brand": "CTP",
+          "images": []
+        },
+        {
+          "name": "Pins & Retainers",
+          "section": "Ground Engaging Tools",
+          "type": "card",
+          "description": "CTP Pins and retainers are made with the toughest materials in the market. To improve on the longevity and prevent corrosion, our pins and retainers are zinc plated.",
+          "specifications": {},
+          "features": [],
+          "applications": [],
+          "brand": "CTP",
+          "images": []
+        },
+        {
+          "name": "Motor Grader Blades",
+          "section": "Ground Engaging Tools",
+          "type": "additionalInformation",
+          "description": "CTP® Grader blades are manufactured from Boron Steel Alloy and heat treated and tempered to needed specifications to ensure the best combination of wear and impact resistance.",
+          "specifications": {
+            "Hardness": "HRC >= 49° (stated for Tips and Adapters)"
+          },
+          "features": [],
+          "applications": [],
+          "brand": "CTP",
+          "images": []
+        },
+        {
+          "name": "Tips and Adapters",
+          "section": "Ground Engaging Tools",
+          "type": "additionalInformation",
+          "description": "CTP® Tips and Adapters are designed to maximize wear life and efficiency.",
+          "specifications": {
+            "Hardness": "HRC >= 49°",
+            "Impact strength": "akv >= 28j/cm²"
+          },
+          "features": [],
+          "applications": [],
+          "brand": "CTP",
+          "images": []
+        },
+        {
+          "name": "Ripper Teeth",
+          "section": "Ground Engaging Tools",
+          "type": "additionalInformation",
+          "description": "Ripper teeth are used in very hostile environments, making it necessary to purchase a quality brand. CTP Branded ripper teeth provide rapid penetration and aggressive ripping angle, along with increased impact resistance. There are several styles of ripper teeth. The Centerline teeth are used in conditions where penetration is not a problem and Penetration teeth are used in conditions where penetration is difficult.",
+          "specifications": {},
+          "features": [],
+          "applications": [],
+          "brand": "CTP",
+          "images": []
+        },
+        {
+          "name": "Woodruff Keys",
+          "section": "Hardware",
+          "type": "card",
+          "description": "CTP offers a wide range of Woodruff Keys that are manufactured using medium carbon steel and machined for a smooth finish.",
+          "specifications": {},
+          "features": [],
+          "applications": [],
+          "brand": "CTP",
+          "images": []
+        },
+        {
+          "name": "Rivets",
+          "section": "Hardware",
+          "type": "card",
+          "description": "CTP Rivets are available in Flat Head, Button Head and Blind. Different standards and surface finishes are also available.",
+          "specifications": {},
+          "features": [],
+          "applications": [],
+          "brand": "CTP",
+          "images": []
+        },
+        {
+          "name": "Cotter Pins",
+          "section": "Hardware",
+          "type": "card",
+          "description": "We Stock all type of cotter pins: stainless steel cotter pins, zinc plated steel cotter pins, copper cotter pins, and aluminum cotter pins.",
+          "specifications": {},
+          "features": [],
+          "applications": [],
+          "brand": "CTP",
+          "images": []
+        },
+        {
+          "name": "Self-Locking Nuts",
+          "section": "Hardware",
+          "type": "card",
+          "description": "CTP Self-Locking Nuts (All Metal & Nylon Insert) are made of fine grain steel. They are ideal in applications where vibration or motion could loosen or undo the nut.",
+          "specifications": {},
+          "features": [],
+          "applications": [],
+          "brand": "CTP",
+          "images": []
+        },
+        {
+          "name": "Plow Bolts",
+          "section": "Hardware",
+          "type": "additionalInformation",
+          "description": "Has a domed head that puts extra metal at the wearing surface. They are used primarily in grader and bulldozer blades to prolong use before the bolt needs to be replaced. Plow bolts have a countersunk square neck.",
+          "specifications": {},
+          "features": [],
+          "applications": [],
+          "brand": "CTP",
+          "images": []
+        },
+        {
+          "name": "Self-Locking Nylon Patch",
+          "section": "Hardware",
+          "type": "additionalInformation",
+          "description": "CTP self-locking nylon patch formula is specially designed as non-ozone depleting locking and sealing coating for threaded fasteners. It ultimately prevents fasteners from loosing, even under extreme vibration.",
+          "specifications": {},
+          "features": [],
+          "applications": [],
+          "brand": "CTP",
+          "images": []
+        },
+        {
+          "name": "Radiator Cores",
+          "section": "Cooling Systems",
+          "type": "card",
+          "description": "CTP designs its folded core radiators to resist vibration and stress damage, increasing reliability and life in your application.",
+          "specifications": {},
+          "features": [],
+          "applications": [],
+          "brand": "CTP",
+          "images": []
+        },
+        {
+          "name": "Fans",
+          "section": "Cooling Systems",
+          "type": "card",
+          "description": "All CTP fans are perfectly balanced to run more efficiently. As a result, the engine is kept cooler prolonging its life. Reversible blades fans are also available.",
+          "specifications": {},
+          "features": [],
+          "applications": [],
+          "brand": "CTP",
+          "images": []
+        },
+        {
+          "name": "Water Pumps",
+          "section": "Cooling Systems",
+          "type": "card",
+          "description": "At CTP we offer you a broad selection of water pumps that ensure the excellent performance of your machine's cooling system.",
+          "specifications": {},
+          "features": [],
+          "applications": [],
+          "brand": "CTP",
+          "images": []
+        },
+        {
+          "name": "Oil Coolers",
+          "section": "Cooling Systems",
+          "type": "card",
+          "description": "Cool and maintain your engine with top quality CTP Oil Coolers. They are pressure tested in our facilities to ensure leak-proof quality.",
+          "specifications": {},
+          "features": [],
+          "applications": [],
+          "brand": "CTP",
+          "images": []
+        },
+        {
+          "name": "Liquid Cooling",
+          "section": "Cooling Systems",
+          "type": "additionalInformation-informational",
+          "description": "The cooling system circulates fluid through piping and engine passageways to extract heat from the engine block. The hot liquid passes through the radiator and cools down as it comes into contact with the radiator walls. The radiator exchanges this heat with the atmosphere and cool liquid re-circulates to the engine passageways again.",
+          "specifications": {},
+          "features": [],
+          "applications": [],
+          "brand": "CTP",
+          "images": [],
+          "note": "educational entry, not a product"
+        },
+        {
+          "name": "Air Cooling",
+          "section": "Cooling Systems",
+          "type": "additionalInformation-informational",
+          "description": "Instead of circulating fluid through the engine, the engine block is covered in aluminum fins that conduct the heat away from the cylinder. A powerful fan forces air over these fins, which cools the engine by transferring the heat to the air.",
+          "specifications": {},
+          "features": [],
+          "applications": [],
+          "brand": "CTP",
+          "images": [],
+          "note": "educational entry, not a product"
+        },
+        {
+          "name": "Air Filters",
+          "section": "CTP Filters",
+          "type": "card",
+          "description": "The open and closed end caps of the CTP Air Filters are fabricated using a polyurethane material that is highly elastic and Provides a high resistance to vibration and impact.",
+          "specifications": {},
+          "features": [],
+          "applications": [],
+          "brand": "CTP",
+          "images": []
+        },
+        {
+          "name": "Strainers",
+          "section": "CTP Filters",
+          "type": "card",
+          "description": "Lower your operating costs by maintaining your system running clean of debris with high quality CTP Strainers.",
+          "specifications": {},
+          "features": [],
+          "applications": [],
+          "brand": "CTP",
+          "images": []
+        },
+        {
+          "name": "Fuel & Oil Filters",
+          "section": "CTP Filters",
+          "type": "card",
+          "description": "For a much cleaner running engine lubrication system and contamination control performance use quality CTP Fuel & Oil filters.",
+          "specifications": {},
+          "features": [],
+          "applications": [],
+          "brand": "CTP",
+          "images": []
+        },
+        {
+          "name": "Filter service Indicators",
+          "section": "CTP Filters",
+          "type": "card",
+          "description": "Filter service based on restriction readings can enable you to obtain the longest life possible from the filter, and the best engine protection. CTP offers a variety of devices that help you get maximum filter utilization.",
+          "specifications": {},
+          "features": [],
+          "applications": [],
+          "brand": "CTP",
+          "images": []
+        },
+        {
+          "name": "ABC Gasket Kits",
+          "section": "Seals and Gaskets",
+          "type": "card",
+          "description": "Designed to consolidate gasket kits and make it easier for the rebuilder himself to quickly identify and organize the seals and gaskets. Check out our Online ABC KITS Catalog",
+          "specifications": {},
+          "features": [],
+          "applications": [],
+          "brand": "CTP",
+          "images": []
+        },
+        {
+          "name": "Multi-Purpose O-Ring Kits",
+          "section": "Seals and Gaskets",
+          "type": "card",
+          "description": "O-Ring Kit contains Nitrile 75 Hardness, substantially improving the lifetime of the machine and the component. It can be used in any industrial application from automotive to heavy equipment.",
+          "specifications": {
+            "O-Ring hardness": "Nitrile 75 Hardness"
+          },
+          "features": [],
+          "applications": [
+            "automotive to heavy equipment"
+          ],
+          "brand": "CTP",
+          "images": []
+        },
+        {
+          "name": "Hydraulic Seal Kits",
+          "section": "Seals and Gaskets",
+          "type": "card",
+          "description": "O-Ring Kits contain Nitrile 75 Hardness, substantially improving the lifetime of the machine and the components. They come in a special black suitcase style with interior foam and can be used in any industrial application from automotive to heavy equipment.",
+          "specifications": {
+            "O-Ring hardness": "Nitrile 75 Hardness"
+          },
+          "features": [],
+          "applications": [
+            "automotive to heavy equipment"
+          ],
+          "brand": "CTP",
+          "images": []
+        },
+        {
+          "name": "Repair kits",
+          "section": "Seals and Gaskets",
+          "type": "card",
+          "description": "CTP has a complete range of repair kits and components parts for all your repair needs; from the water pump, transmission and turbocharger to all the engine structures.",
+          "specifications": {},
+          "features": [],
+          "applications": [],
+          "brand": "CTP",
+          "images": []
+        },
+        {
+          "name": "Crankshaft Seals",
+          "section": "Seals and Gaskets",
+          "type": "additionalInformation",
+          "description": "Front and rear crankshaft seals have wear sleeves to provide increased crank reusability. Wear sleeve improves performance of the seal, keeping the dirt away from the sealing lips; this avoids the contamination of oil, maintaining its lubrication properties. The seal has grooves in the seal lip that return to the oil to the deposit during the rotation of the crankshaft.",
+          "specifications": {},
+          "features": [],
+          "applications": [],
+          "brand": "CTP",
+          "images": []
+        },
+        {
+          "name": "Beaded Gasket",
+          "section": "Seals and Gaskets",
+          "type": "additionalInformation",
+          "description": "The Nitrile or Silicone Beaded Gasket technology provides better sealability of the gasket in places where your application needs it the most to prevent any potential leak paths.",
+          "specifications": {},
+          "features": [],
+          "applications": [],
+          "brand": "CTP",
+          "images": []
+        },
+        {
+          "name": "Actuators",
+          "section": "Braking",
+          "type": "card",
+          "description": "CTP Actuators are specifically designed to perform even in the harshest braking environments. Master cylinder pushrod is covered by a rubber boot for additional dirt and moisture protection.",
+          "specifications": {},
+          "features": [],
+          "applications": [],
+          "brand": "CTP",
+          "images": []
+        },
+        {
+          "name": "Braking Pads",
+          "section": "Braking",
+          "type": "card",
+          "description": "CTP Sintered Metal Brake pads Increase density for longer life. Also, offer a High friction resistant with quiet performance.",
+          "specifications": {
+            "material": "Sintered Metal"
+          },
+          "features": [],
+          "applications": [],
+          "brand": "CTP",
+          "images": []
+        },
+        {
+          "name": "Braking Cables",
+          "section": "Braking",
+          "type": "card",
+          "description": "Most parking brakes use cables to connect the control lever or pedal to the service brakes. CTP Braking system cables are made of high-strength strands of steel wire that are tightly twisted together.",
+          "specifications": {},
+          "features": [],
+          "applications": [],
+          "brand": "CTP",
+          "images": []
+        },
+        {
+          "name": "Friction Discs",
+          "section": "Braking",
+          "type": "card",
+          "description": "CTP only provides Friction Discs that are made with 100% Asbesto-Free material to ensure the top quality you deserve.",
+          "specifications": {
+            "material": "100% Asbesto-Free (sic)"
+          },
+          "features": [],
+          "applications": [],
+          "brand": "CTP",
+          "images": []
+        },
+        {
+          "name": "Hydraulic Brake System",
+          "section": "Braking",
+          "type": "additionalInformation-informational",
+          "description": "Works on the principle that pressure on the brake fluid is applied evenly throughout a closed system. When the brake pedal is pressed, a piston in the master cylinder moves the brake fluid through steel lines applying equal force to all the wheels. The pressure of the brake fluid causes the pistons in the wheel cylinders to be forced outward pressing the linings against the discs or drums.",
+          "specifications": {},
+          "features": [],
+          "applications": [],
+          "brand": "CTP",
+          "images": [],
+          "note": "educational entry, not a product"
+        },
+        {
+          "name": "Air Brake System",
+          "section": "Braking",
+          "type": "additionalInformation-informational",
+          "description": "Uses a compressor driven by the engine to fill pressurized tanks with air. When the brake pedal is pressed, a valve allows a certain amount of air pressure to the brake chambers at each wheel. The harder the brake pedal is pressed, the more pressure you give to the brake chambers.There are three different air braking systems: service brake, parking brake, and emergency brake.",
+          "specifications": {},
+          "features": [],
+          "applications": [],
+          "brand": "CTP",
+          "images": [],
+          "note": "educational entry, not a product"
+        },
+        {
+          "name": "Inhibitor",
+          "section": "More CTP Products",
+          "type": "card",
+          "description": "CTP inhibitor is a product designed to change the sulfate and nitrate levels effectively. It is composed of corrosion inhibitors and lubricants that protect and promote the lifespan of the cooling system components.",
+          "specifications": {},
+          "features": [],
+          "applications": [
+            "cooling system"
+          ],
+          "brand": "CTP",
+          "images": []
+        },
+        {
+          "name": "Grease Gun",
+          "section": "More CTP Products",
+          "type": "card",
+          "description": "This portable lubricator comes along with three hoses and a kit with a variety of the most popular and used fittings.",
+          "specifications": {
+            "includes": "three hoses and a fittings kit"
+          },
+          "features": [],
+          "applications": [],
+          "brand": "CTP",
+          "images": []
+        },
+        {
+          "name": "CTP Seats",
+          "section": "More CTP Products",
+          "type": "card",
+          "description": "CTP Seats now include more features and accessories to enhance the operator's comfort. Check out all the available CTP seats in your CTP Store.",
+          "specifications": {},
+          "features": [],
+          "applications": [],
+          "brand": "CTP",
+          "images": []
+        },
+        {
+          "name": "Hand Cleaner Towels",
+          "section": "More CTP Products",
+          "type": "card",
+          "description": "CTP Hand Cleaner Towels have a citrus-based formula combined with a tough, textured orange towel to loosen, dissolve and absorb dirt and grease leaving your hands truly clean without the need of water or others products.",
+          "specifications": {
+            "formula": "citrus-based"
+          },
+          "features": [],
+          "applications": [],
+          "brand": "CTP",
+          "images": []
+        },
+        {
+          "name": "CTP Power Diesel",
+          "section": "More CTP Products",
+          "type": "additionalInformation",
+          "description": "Water is welcome almost everywhere except in your diesel fuel engine. Water in diesel fuel severely damages injectors, corrodes tanks and fosters the growth of bacteria. Our highly concentrated CTP Diesel Power™ totally disperses water for a complete combustion and is also an all in one package which cleans the injection system and contains lubricity additives. Increase your engine's performance by giving CTP Diesel Power™ a place in your engine today.",
+          "specifications": {},
+          "features": [],
+          "applications": [
+            "diesel fuel systems"
+          ],
+          "brand": "CTP",
+          "images": []
+        },
+        {
+          "name": "Cabin Glasses",
+          "section": "More CTP Products",
+          "type": "additionalInformation",
+          "description": "Protect yourself from the dusty conditions of the outside with high quality CTP Cabin Glasses. We stock the most popular cabin glasses for motor graders, wheel loaders and excavators.",
+          "specifications": {},
+          "applications": [
+            "motor graders",
+            "wheel loaders",
+            "excavators"
+          ],
+          "features": [],
+          "brand": "CTP",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "HANDOK PRODUCT",
+      "url": "https://skmachineriesinternational.com/handok-product/",
+      "pageTitle": "HANDOK PRODUCT – SK Machineries International",
+      "brand": "HANDOK",
+      "productCount": 20,
+      "imagesOnPage": [],
+      "imagesOnPageNote": "No product images on this page (only site logo/favicon). Card 'learn more' buttons all link to '#' (dead).",
+      "intro": "SK MACHINERY INTERNATIONAL is the Authorized distributor for ITR (Undercarriage parts for all brands of equipment from Italy), CTP (Replacement parts for Caterpillar equipment from USA), JIC (Hydraulic pump, rotary kit for CAT, Kobelco, Komatsu, Sumitomo, Hitachi, Mitsubishi brand excavator from South Korea) and Handok (Hydraulic pump, it's rotary kit for CAT, Kobelco, Komatsu, Sumitomo, Hitachi and Mitsubishi brand excavator from South Korea).",
+      "sections": [
+        "pumps",
+        "motors",
+        "valves",
+        "regulators"
+      ],
+      "products": [
+        {
+          "name": "H7V63",
+          "section": "pumps",
+          "type": "card",
+          "description": "(model number only — no description)",
+          "specifications": {},
+          "features": [],
+          "applications": [],
+          "brand": "HANDOK",
+          "images": [],
+          "learnMore": "#"
+        },
+        {
+          "name": "KVC925/ KVC930/ KVC932",
+          "section": "pumps",
+          "type": "card",
+          "description": "(model numbers only — no description)",
+          "specifications": {},
+          "features": [],
+          "applications": [],
+          "brand": "HANDOK",
+          "images": [],
+          "learnMore": "#"
+        },
+        {
+          "name": "NV45 / NV50 / NV60 / NV70 / NV80 / NV84 / NV90 / NV111 NV120 / NV137 / NV172 / NV210 / NV237 / NV270",
+          "section": "pumps",
+          "type": "card",
+          "description": "(model numbers only — no description)",
+          "specifications": {},
+          "features": [],
+          "applications": [],
+          "brand": "HANDOK",
+          "images": [],
+          "learnMore": "#"
+        },
+        {
+          "name": "H3V63DT / H3V112DT / H3V140DT / H3V180DT / H3V180SH / H3V180DTH / H3V280SH / H3V280DTH",
+          "section": "pumps",
+          "type": "card",
+          "description": "(model numbers only — no description)",
+          "specifications": {},
+          "features": [],
+          "applications": [],
+          "brand": "HANDOK",
+          "images": [],
+          "learnMore": "#"
+        },
+        {
+          "name": "H3V63BDT/ H3V112BDT For Kobelco",
+          "section": "pumps",
+          "type": "card",
+          "description": "(model numbers only — no description)",
+          "specifications": {
+            "application": "For Kobelco"
+          },
+          "features": [],
+          "applications": [
+            "Kobelco"
+          ],
+          "brand": "HANDOK",
+          "images": [],
+          "learnMore": "#"
+        },
+        {
+          "name": "MX50 / MX80 / MX150 / MX173 / MX200 / MX250 / MX300 / MX450 / MX500 / MX530 / MX750",
+          "section": "motors",
+          "type": "card",
+          "description": "(model numbers only — no description)",
+          "specifications": {},
+          "features": [],
+          "applications": [],
+          "brand": "HANDOK",
+          "images": [],
+          "learnMore": "#"
+        },
+        {
+          "name": "M2X55 / M2X63 / M2X96 / M2X120 / M2X128 / M2X146 / M2X150 / M2X170 / M2X210",
+          "section": "motors",
+          "type": "card",
+          "description": "(model numbers only — no description)",
+          "specifications": {},
+          "features": [],
+          "applications": [],
+          "brand": "HANDOK",
+          "images": [],
+          "learnMore": "#"
+        },
+        {
+          "name": "DNB50B/ DNB60B/ DNB50D",
+          "section": "motors",
+          "type": "card",
+          "description": "(model numbers only — no description)",
+          "specifications": {},
+          "features": [],
+          "applications": [],
+          "brand": "HANDOK",
+          "images": [],
+          "learnMore": "#"
+        },
+        {
+          "name": "M5X130 / M5X180",
+          "section": "motors",
+          "type": "card",
+          "description": "(model numbers only — no description)",
+          "specifications": {},
+          "features": [],
+          "applications": [],
+          "brand": "HANDOK",
+          "images": [],
+          "learnMore": "#"
+        },
+        {
+          "name": "HMGF68FA & HMGF57LA (HMK160AE-3UB)",
+          "section": "motors",
+          "type": "card",
+          "description": "(model numbers only — no description)",
+          "specifications": {},
+          "features": [],
+          "applications": [],
+          "brand": "HANDOK",
+          "images": [],
+          "learnMore": "#"
+        },
+        {
+          "name": "Valve For H3V63 / H3V112 / H3V140 / H3V180 For H5V80 / H5V140 / H5V160 / H5V200",
+          "section": "valves",
+          "type": "card",
+          "description": "For H3V63 / H3V112 / H3V140 / H3V180 For H5V80 / H5V140 / H5V160 / H5V200",
+          "specifications": {},
+          "features": [],
+          "applications": [],
+          "brand": "HANDOK",
+          "images": [],
+          "learnMore": "#"
+        },
+        {
+          "name": "Prorotional pressure reducing valve For H3V63 / H3V112 / H3V140 / H3V180 For H5V80 / H5V140 / H5V160 / H5V200",
+          "section": "valves",
+          "type": "card",
+          "description": "Prorotional pressure reducing valve For H3V63 / H3V112 / H3V140 / H3V180 For H5V80 / H5V140 / H5V160 / H5V200",
+          "specifications": {},
+          "features": [],
+          "applications": [],
+          "brand": "HANDOK",
+          "images": [],
+          "learnMore": "#",
+          "note": "'Prorotional' [sic] as written on site"
+        },
+        {
+          "name": "Prorotional pressure reducing valve For H3V63 / H3V112 / H3V140 / H3V180 & H5V160 / H5V200 (Negative type)",
+          "section": "valves",
+          "type": "card",
+          "description": "Prorotional pressure reducing valve For H3V63 / H3V112 / H3V140 / H3V180 & H5V160 / H5V200 (Negative type)",
+          "specifications": {
+            "type": "Negative type"
+          },
+          "features": [],
+          "applications": [],
+          "brand": "HANDOK",
+          "images": [],
+          "learnMore": "#",
+          "note": "'Prorotional' [sic]"
+        },
+        {
+          "name": "Prorotional pressure reducing valve For HPV118",
+          "section": "valves",
+          "type": "card",
+          "description": "Prorotional pressure reducing valve For HPV118",
+          "specifications": {},
+          "features": [],
+          "applications": [],
+          "brand": "HANDOK",
+          "images": [],
+          "learnMore": "#",
+          "note": "'Prorotional' [sic]"
+        },
+        {
+          "name": "Prorotional pressure reducing valve For H3V63 / H5V80",
+          "section": "valves",
+          "type": "card",
+          "description": "Prorotional pressure reducing valve For H3V63 / H5V80",
+          "specifications": {},
+          "features": [],
+          "applications": [],
+          "brand": "HANDOK",
+          "images": [],
+          "learnMore": "#",
+          "note": "'Prorotional' [sic]"
+        },
+        {
+          "name": "Regulator H3V112 / H3V140 / H3V180 & H5V140 / H5V160 / H5V180 For Kobelco & New Holand",
+          "section": "regulators",
+          "type": "card",
+          "description": "H3V112 / H3V140 / H3V180 & H5V140 / H5V160 / H5V180 For Kobelco & New Holand",
+          "specifications": {
+            "application": "For Kobelco & New Holand [sic]"
+          },
+          "features": [],
+          "applications": [
+            "Kobelco",
+            "New Holland (spelled 'New Holand' on site)"
+          ],
+          "brand": "HANDOK",
+          "images": [],
+          "learnMore": "#"
+        },
+        {
+          "name": "3L09 – REGULATOR",
+          "section": "regulators",
+          "type": "card",
+          "description": "3L09 – REGULATOR combines horse power control + cuf off valve + load sense control",
+          "specifications": {
+            "functions": [
+              "horse power control",
+              "cuf off valve [sic]",
+              "load sense control"
+            ]
+          },
+          "features": [
+            "horse power control",
+            "cut off valve (written 'cuf off')",
+            "load sense control"
+          ],
+          "applications": [],
+          "brand": "HANDOK",
+          "images": [],
+          "learnMore": "#"
+        },
+        {
+          "name": "3N09 Type Regulator",
+          "section": "regulators",
+          "type": "card",
+          "description": "3N09 Type Regulator combines horse power control + cuf off valve + negative flow control",
+          "specifications": {
+            "functions": [
+              "horse power control",
+              "cuf off valve [sic]",
+              "negative flow control"
+            ]
+          },
+          "features": [
+            "horse power control",
+            "cut off valve (written 'cuf off')",
+            "negative flow control"
+          ],
+          "applications": [],
+          "brand": "HANDOK",
+          "images": [],
+          "learnMore": "#"
+        },
+        {
+          "name": "H5V80DTP(9KOE=FRONT)",
+          "section": "regulators",
+          "type": "card",
+          "description": "H5V80DTP(9KOE=FRONT) which has been applied for Hitachi",
+          "specifications": {
+            "application": "Hitachi"
+          },
+          "features": [],
+          "applications": [
+            "Hitachi"
+          ],
+          "brand": "HANDOK",
+          "images": [],
+          "learnMore": "#"
+        },
+        {
+          "name": "H5V80DTP(9POF=REAR)",
+          "section": "regulators",
+          "type": "card",
+          "description": "H5V80DTP(9POF=REAR)",
+          "specifications": {},
+          "features": [],
+          "applications": [],
+          "brand": "HANDOK",
+          "images": [],
+          "learnMore": "#"
+        }
+      ]
+    },
+    {
+      "name": "ITR PRODUCT",
+      "url": "https://skmachineriesinternational.com/itr-product/",
+      "pageTitle": "ITR PRODUCT – SK Machineries International",
+      "brand": "ITR",
+      "productCount": 15,
+      "imagesOnPage": [
+        "https://skmachineriesinternational.com/wp-content/uploads/2022/08/imageedit_3_4336580832.png"
+      ],
+      "imagesOnPageNote": "Only one content image (excavator illustration, natural size 959x848). The 15 product cards themselves display NO images, although matching images (Teeth-Adapter-1/2/3.jpg, Track-adjuster-1/2/3.jpg, track-guard-1/2.jpg, track-shoe-1/2.jpg, sealkit.jpg, Recoil-spring.jpg, breaker-tools.jpg, undercarriage*.jpg, idler.jpg) exist unused in the media library.",
+      "intro": "itr product (Undercarriage Parts) — SK MACHINERY INTERNATIONAL is the Authorized distributor for ITR (Undercarriage parts for all brands of equipment from Italy).",
+      "description": "ITR manufactures an extensive range of Undercarriage Parts & Components for Crawlers, Excavators, Dozers, Compact Track Loaders (CTL), Pavers and custom applications. Boasting 10 Distribution Centers throughout North America, stocked full of undercarriage for manufacturers like Caterpillar®, CNH®, John Deere®, Hitachi®, Kobelco®, Komatsu® and more. Manufactured to the highest quality standards, ITR undercarriage parts have earned an excellent reputation in the Mining, Forestry, Construction and Roadbuilding industries for providing long life and trouble-free performance.",
+      "coverage": "ITR America provides the widest range of undercarriage applications, with coverage for more Makes and Models than any other industry supplier.",
+      "partTypeList": [
+        "Track Chains (Standard, Heavy Duty & Positive Pin Retention)",
+        "Forged & Cast Sprocket Segment Groups",
+        "Drive Sprockets",
+        "Idlers (Standard & Heavy Duty)",
+        "Lower Rollers (Standard & Heavy Duty)",
+        "Carrier Rollers",
+        "Track Tensioning Components",
+        "Bogie Assemblies"
+      ],
+      "products": [
+        {
+          "name": "Teeth & Adapter",
+          "section": "cards",
+          "type": "card",
+          "description": "(no description — title only)",
+          "specifications": {},
+          "features": [],
+          "applications": [],
+          "brand": "ITR",
+          "images": [],
+          "learnMore": "https://skmachineriesinternational.com/?page_id=1459",
+          "note": "3 identical-titled cards (Teeth & Adapter x3)"
+        },
+        {
+          "name": "Track Adjuster",
+          "section": "cards",
+          "type": "card",
+          "description": "(no description — title only)",
+          "specifications": {},
+          "features": [],
+          "applications": [],
+          "brand": "ITR",
+          "images": [],
+          "learnMore": "https://skmachineriesinternational.com/?page_id=1459",
+          "note": "3 identical-titled cards (Track Adjuster x3)"
+        },
+        {
+          "name": "Sealkit",
+          "section": "cards",
+          "type": "card",
+          "description": "(no description — title only)",
+          "specifications": {},
+          "features": [],
+          "applications": [],
+          "brand": "ITR",
+          "images": [],
+          "learnMore": "https://skmachineriesinternational.com/?page_id=1459",
+          "note": "1 card"
+        },
+        {
+          "name": "Track Guard",
+          "section": "cards",
+          "type": "card",
+          "description": "(no description — title only)",
+          "specifications": {},
+          "features": [],
+          "applications": [],
+          "brand": "ITR",
+          "images": [],
+          "learnMore": "https://skmachineriesinternational.com/?page_id=1459",
+          "note": "2 identical-titled cards"
+        },
+        {
+          "name": "Recoil Spring",
+          "section": "cards",
+          "type": "card",
+          "description": "(no description — title only)",
+          "specifications": {},
+          "features": [],
+          "applications": [],
+          "brand": "ITR",
+          "images": [],
+          "learnMore": "https://skmachineriesinternational.com/?page_id=1459",
+          "note": "1 card"
+        },
+        {
+          "name": "Track Shoe",
+          "section": "cards",
+          "type": "card",
+          "description": "(no description — title only)",
+          "specifications": {},
+          "features": [],
+          "applications": [],
+          "brand": "ITR",
+          "images": [],
+          "learnMore": "https://skmachineriesinternational.com/?page_id=1459",
+          "note": "2 identical-titled cards"
+        },
+        {
+          "name": "Breaker Tools",
+          "section": "cards",
+          "type": "card",
+          "description": "(no description — title only)",
+          "specifications": {},
+          "features": [],
+          "applications": [],
+          "brand": "ITR",
+          "images": [],
+          "learnMore": "https://skmachineriesinternational.com/?page_id=1459",
+          "note": "1 card"
+        },
+        {
+          "name": "Excavator",
+          "section": "cards",
+          "type": "card",
+          "description": "(no description — title only)",
+          "specifications": {},
+          "features": [],
+          "applications": [],
+          "brand": "ITR",
+          "images": [],
+          "learnMore": "https://skmachineriesinternational.com/?page_id=1459",
+          "note": "2 identical-titled cards"
+        }
+      ],
+      "cardTotals": {
+        "Teeth & Adapter": 3,
+        "Track Adjuster": 3,
+        "Sealkit": 1,
+        "Track Guard": 2,
+        "Recoil Spring": 1,
+        "Track Shoe": 2,
+        "Breaker Tools": 1,
+        "Excavator": 2,
+        "total card instances": 15
+      }
+    },
+    {
+      "name": "JIC PRODUCT",
+      "url": "https://skmachineriesinternational.com/jic-product/",
+      "pageTitle": "JIC PRODUCT – SK Machineries International",
+      "brand": "JIC",
+      "productCount": 0,
+      "productCountNote": "No product cards on this page — only a filterable catalogue image gallery.",
+      "imagesOnPage": [
+        "https://skmachineriesinternational.com/wp-content/uploads/2022/09/CATALOGUE2019_page-0001.jpg",
+        "https://skmachineriesinternational.com/wp-content/uploads/2022/09/CATALOGUE2019_page-0002.jpg",
+        "https://skmachineriesinternational.com/wp-content/uploads/2022/09/CATALOGUE2019_page-0004.jpg",
+        "https://skmachineriesinternational.com/wp-content/uploads/2022/09/CATALOGUE2019_page-0005.jpg",
+        "https://skmachineriesinternational.com/wp-content/uploads/2022/09/CATALOGUE2019_page-0006.jpg",
+        "https://skmachineriesinternational.com/wp-content/uploads/2022/09/CATALOGUE2019_page-0007.jpg"
+      ],
+      "gallery": {
+        "filterTabs": [
+          "All",
+          "Catalogue 2020",
+          "Range of Products",
+          "Hydraulic Motor",
+          "Hydraulic Valve"
+        ],
+        "itemCaptions": [
+          "JIC Catalogue 2020 / JIC Hydraulic (x3)",
+          "JIC Catalogue 2020 / JIC Hydraulic Motor (x2)"
+        ],
+        "loadMore": "Load More button links to '#' — non-functional",
+        "mediaLibraryNote": "11 CATALOGUE2019 pages exist in the media library (0001,0002,0004,0005,0006,0007,0008,0009,0011,0012,0013); pages 0003 and 0010 were never uploaded; 5 uploaded pages (0008,0009,0011,0012,0013) are not shown because Load More is dead."
+      },
+      "intro": "SK MACHINERY INTERNATIONAL is the Authorized distributor for ITR (Undercarriage parts for all brands of equipment from Italy), CTP (Replacement parts for Caterpillar equipment from USA), JIC (Hydraulic pump, rotary kit for CAT, Kobelco, Komatsu, Sumitomo, Hitachi, Mitsubishi brand excavator from South Korea) and Handok (Hydraulic pump, it's rotary kit for CAT, Kobelco, Komatsu, Sumitomo, Hitachi and Mitsubishi brand excavator from South Korea).",
+      "sections": [],
+      "products": []
+    }
+  ],
+  "homePage": {
+    "url": "https://skmachineriesinternational.com/",
+    "pageTitle": "SK Machineries International – It's a One-Stop Shop for Power, Heavy Earth Moving Construction Equipment",
+    "sections": [
+      {
+        "name": "Hero (Slider Revolution)",
+        "content": "WELCOME TO / SK MACHINERY INTERNATIONAL + full intro paragraph",
+        "slides": [
+          {
+            "key": "rs-35",
+            "image": "https://skmachineriesinternational.com/wp-content/uploads/2022/08/Banner-09.jpg"
+          },
+          {
+            "key": "rs-36",
+            "image": "https://skmachineriesinternational.com/wp-content/uploads/2022/08/Banner-01.jpg"
+          },
+          {
+            "key": "rs-37",
+            "image": "https://skmachineriesinternational.com/wp-content/uploads/2022/08/Banner-02.jpg"
+          },
+          {
+            "key": "rs-38",
+            "image": "https://skmachineriesinternational.com/wp-content/uploads/2022/08/Banner-11.jpg"
+          },
+          {
+            "key": "rs-39",
+            "image": "https://skmachineriesinternational.com/wp-content/uploads/2022/08/Banner-17.jpg"
+          },
+          {
+            "key": "rs-40",
+            "image": "https://skmachineriesinternational.com/wp-content/uploads/2022/08/Banner-12.jpg"
+          },
+          {
+            "key": "rs-41",
+            "image": "https://skmachineriesinternational.com/wp-content/uploads/2022/08/Banner-21.jpg"
+          },
+          {
+            "key": "rs-42",
+            "image": "https://skmachineriesinternational.com/wp-content/uploads/2022/08/Banner-20.jpg"
+          },
+          {
+            "key": "rs-43",
+            "image": "https://skmachineriesinternational.com/wp-content/uploads/2022/08/Banner-14.jpg"
+          },
+          {
+            "key": "rs-44",
+            "image": "https://skmachineriesinternational.com/wp-content/uploads/2022/08/Banner-07.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Intro image-box",
+        "image": "https://skmachineriesinternational.com/wp-content/uploads/2022/09/chairman.jpg",
+        "text": "Provides paragraph (same as About)"
+      },
+      {
+        "name": "CATALOG FOR ITR, JIC, CTP & HANDOK (Elementor slides)",
+        "slides": 4,
+        "note": "ALL 4 SLIDES EMPTY — no background image, no content"
+      },
+      {
+        "name": "recent work (image carousel)",
+        "caption": "parts you can trust / to keep your equipment working",
+        "images": [
+          "https://skmachineriesinternational.com/wp-content/uploads/2022/08/750x405.jpg",
+          "https://skmachineriesinternational.com/wp-content/uploads/2022/08/750x405-2.jpg",
+          "https://skmachineriesinternational.com/wp-content/uploads/2022/08/Banner-20.jpg",
+          "https://skmachineriesinternational.com/wp-content/uploads/2022/08/Banner-21-1.jpg",
+          "https://skmachineriesinternational.com/wp-content/uploads/2022/08/750x405-3.jpg",
+          "https://skmachineriesinternational.com/wp-content/uploads/2022/08/750x405-4.jpg",
+          "https://skmachineriesinternational.com/wp-content/uploads/2022/08/Banner-08.jpg",
+          "https://skmachineriesinternational.com/wp-content/uploads/2022/08/Banner-14.jpg"
+        ],
+        "button": {
+          "text": "View More Work",
+          "href": "https://skmachineriesinternational.com/?page_id=1453",
+          "resolvesTo": "https://skmachineriesinternational.com/about-us-2/"
+        }
+      },
+      {
+        "name": "technologies (image carousel of 16 GIFs)",
+        "images": [
+          "https://skmachineriesinternational.com/wp-content/uploads/2022/08/01-8.gif",
+          "https://skmachineriesinternational.com/wp-content/uploads/2022/08/02-1.gif",
+          "https://skmachineriesinternational.com/wp-content/uploads/2022/08/02-2.gif",
+          "https://skmachineriesinternational.com/wp-content/uploads/2022/08/02-4.gif",
+          "https://skmachineriesinternational.com/wp-content/uploads/2022/08/03-2.gif",
+          "https://skmachineriesinternational.com/wp-content/uploads/2022/08/03-4.gif",
+          "https://skmachineriesinternational.com/wp-content/uploads/2022/08/03-5.gif",
+          "https://skmachineriesinternational.com/wp-content/uploads/2022/08/03-6.gif",
+          "https://skmachineriesinternational.com/wp-content/uploads/2022/08/04-3.gif",
+          "https://skmachineriesinternational.com/wp-content/uploads/2022/08/04-4.gif",
+          "https://skmachineriesinternational.com/wp-content/uploads/2022/08/04-6.gif",
+          "https://skmachineriesinternational.com/wp-content/uploads/2022/08/04-8.gif",
+          "https://skmachineriesinternational.com/wp-content/uploads/2022/08/carriers.gif",
+          "https://skmachineriesinternational.com/wp-content/uploads/2022/08/cylinders.gif",
+          "https://skmachineriesinternational.com/wp-content/uploads/2022/08/products-con_rods.gif",
+          "https://skmachineriesinternational.com/wp-content/uploads/2022/08/startors.gif"
+        ]
+      },
+      {
+        "name": "expertise",
+        "text": "SK MACHINERY INTERNATIONAL is a One-Stop sales center for Power, Heavy Earth Moving Construction Equipment,Mining and Gas Generator Spare Parts."
+      },
+      {
+        "name": "ctp product (10 cards, NO images)",
+        "cards": [
+          "Piston Kits",
+          "Liner Kits",
+          "Stators",
+          "Carriers",
+          "Hydraulic Hoses & Couplings",
+          "Hydraulic Cartridges",
+          "Alternators",
+          "Hydraulic Seal Kits",
+          "Injectors",
+          "Pencil Nozzle"
+        ],
+        "links": "all 'learn more' -> https://skmachineriesinternational.com/?page_id=1455 (CTP PRODUCT page)"
+      },
+      {
+        "name": "Handok product (12 cards, NO images)",
+        "cards": [
+          "pumps: KVC925/ KVC930/ KVC932",
+          "pumps: NV45 / NV50 / NV60 / NV70 / NV80 / NV84 / NV90 / NV111 NV120 / NV137 / NV172 / NV210 / NV237 / NV270",
+          "pumps: H3V63BDT/ H3V112BDT For Kobelco",
+          "motors: MX50 / MX80 / MX150 / MX173 / MX200 / MX250 / MX300 / MX450 / MX500 / MX530 / MX750",
+          "motors: M2X55 / M2X63 / M2X96 / M2X120 / M2X128 / M2X146 / M2X150 / M2X170 / M2X210",
+          "motors: DNB50B/ DNB60B/ DNB50D",
+          "valves: For H3V63 / H3V112 / H3V140 / H3V180 For H5V80 / H5V140 / H5V160 / H5V200",
+          "valves: Prorotional pressure reducing valve For H3V63 / H3V112 / H3V140 / H3V180 For H5V80 / H5V140 / H5V160 / H5V200",
+          "valves: Prorotional pressure reducing valve For H3V63 / H3V112 / H3V140 / H3V180 & H5V160 / H5V200 (Negative type)",
+          "regulators: H3V112 / H3V140 / H3V180 & H5V140 / H5V160 / H5V180 For Kobelco & New Holand",
+          "regulators: 3L09 – REGULATOR combines horse power control + cuf off valve + load sense control",
+          "regulators: 3N09 Type Regulator combines horse power control + cuf off valve + negative flow control"
+        ],
+        "links": "all 'learn more' -> https://skmachineriesinternational.com/?page_id=1457 (HANDOK PRODUCT page)"
+      },
+      {
+        "name": "ITR product (15 cards, NO images)",
+        "cards": [
+          "Teeth & Adapter x3",
+          "Track Adjuster x3",
+          "Sealkit x1",
+          "Track Guard x2",
+          "Recoil Spring x1",
+          "Track Shoe x2",
+          "Breaker Tools x1",
+          "Excavator x2"
+        ],
+        "links": "all 'learn more' -> https://skmachineriesinternational.com/?page_id=1459 (ITR PRODUCT page)"
+      },
+      {
+        "name": "Provides / Delivers / Experience (3 text boxes)",
+        "image": "https://skmachineriesinternational.com/wp-content/uploads/2022/08/skm.jpg"
+      },
+      {
+        "name": "certification",
+        "images": [
+          "https://skmachineriesinternational.com/wp-content/uploads/2022/08/image_6487327-1024x788.jpg",
+          "https://skmachineriesinternational.com/wp-content/uploads/2022/08/certi3.jpg",
+          "https://skmachineriesinternational.com/wp-content/uploads/2022/09/SK-MACHINERY-AUTHORISE-JIC-DISTRIBUTOR-CERTIFICATE-1-1004x1024.png"
+        ],
+        "labels": [
+          "CTP Certification",
+          "Handok Certification",
+          "JIC Certification"
+        ]
+      },
+      {
+        "name": "who we are (slider + image carousel)",
+        "sliderText": [
+          "SK MACHINERY INTERNATIONAL is a One-Stop sales center for Power, Heavy Earth Moving Construction Equipment, Mining and Gas Generator Spare Parts.",
+          "we are sk machineries international",
+          "we are authorized distributor for ITR, CTP, JIC & HANDOK",
+          "one of the Leading hydraulic Pump Parts Seller",
+          "we are One-Stop sales center for Power, Heavy Equipment etc."
+        ],
+        "note": "4 slides have EMPTY background images",
+        "carouselImages": [
+          "https://skmachineriesinternational.com/wp-content/uploads/2022/08/Banner-09-1024x489.jpg",
+          "https://skmachineriesinternational.com/wp-content/uploads/2022/08/Banner-13-1024x1024.jpg",
+          "https://skmachineriesinternational.com/wp-content/uploads/2022/08/Banner-18-1024x1024.jpg",
+          "https://skmachineriesinternational.com/wp-content/uploads/2022/08/sealkit-1018x1024.jpg",
+          "https://skmachineriesinternational.com/wp-content/uploads/2022/08/Banner-03-1024x1024.jpg",
+          "https://skmachineriesinternational.com/wp-content/uploads/2022/08/Banner-23-1024x1024.jpg",
+          "https://skmachineriesinternational.com/wp-content/uploads/2022/08/Banner-16-1024x1024.jpg",
+          "https://skmachineriesinternational.com/wp-content/uploads/2022/08/Banner-24-1024x1024.jpg",
+          "https://skmachineriesinternational.com/wp-content/uploads/2022/08/Banner-19-1024x1024.jpg",
+          "https://skmachineriesinternational.com/wp-content/uploads/2022/08/Banner-15-1024x1024.jpg",
+          "https://skmachineriesinternational.com/wp-content/uploads/2022/08/output-onlinepngtools-14.png"
+        ]
+      },
+      {
+        "name": "contact form (CF7, same as contact page)"
+      },
+      {
+        "name": "footer"
+      }
+    ]
+  },
+  "otherPages": [
+    {
+      "title": "ABOUT US",
+      "url": "https://skmachineriesinternational.com/about-us-2/",
+      "pageTitle": "ABOUT US – SK Machineries International",
+      "contentSummary": "Heading 'about us'; two paragraphs: (1) One-Stop sales center + leading hydraulic pump parts seller in Bangladesh for Japanese, USA, European & Chinese Excavators; (2) Authorized distributor paragraph for ITR/CTP/JIC/Handok. Then an image-less 'CATALOG FOR ITR, JIC, CTP & HANDOK' slider (4 empty slides). No history, no team, no stats, no images beyond logos.",
+      "images": [
+        "(none — only site logo/favicon assets)"
+      ]
+    },
+    {
+      "title": "CERTIFICATION",
+      "url": "https://skmachineriesinternational.com/certification/",
+      "pageTitle": "CERTIFICATION – SK Machineries International",
+      "contentSummary": "Heading 'certification'; marquee text repeating 'CTP Certification / Handok Certification / JIC Certification' twice; three certificate images shown WITHOUT captions: image_6487327.jpg (CTP, by position), certi3.jpg (Handok, by position), SK-MACHINERY-AUTHORISE-JIC-DISTRIBUTOR-CERTIFICATE-1.png (JIC, named by filename).",
+      "images": [
+        "https://skmachineriesinternational.com/wp-content/uploads/2022/08/image_6487327.jpg",
+        "https://skmachineriesinternational.com/wp-content/uploads/2022/08/certi3.jpg",
+        "https://skmachineriesinternational.com/wp-content/uploads/2022/09/SK-MACHINERY-AUTHORISE-JIC-DISTRIBUTOR-CERTIFICATE-1.png"
+      ]
+    },
+    {
+      "title": "CONTACT US",
+      "url": "https://skmachineriesinternational.com/contact-us/",
+      "pageTitle": "CONTACT US – SK Machineries International",
+      "contentSummary": "Heading 'contact us'; Contact Form 7 form (fields listed in contact.form); footer 'engage & experience' block with phones/address/email. No map, no hours.",
+      "images": [
+        "(none — only site logo/favicon assets)"
+      ]
+    },
+    {
+      "title": "WEBMAIL",
+      "url": "https://skmachineriesinternational.com/webmail/",
+      "pageTitle": "cPanel Redirect",
+      "contentSummary": "Not a content page — cPanel redirect chooser ('cPanel Redirect Connection Selection .... trying: preferred — If you are not behind a firewall that blocks port 2096 Enter Here / If you are behind a firewall and can not connect to port 2096 Enter Here'). Nav WEBMAIL links directly to https://skmachineriesinternational.com:2096/",
+      "images": []
+    },
+    {
+      "title": "Hello world! (default WP post)",
+      "url": "https://skmachineriesinternational.com/hello-world/",
+      "pageTitle": "Hello world! – SK Machineries International",
+      "contentSummary": "Unedited WordPress default post: 'Welcome to WordPress. This is your first post. Edit or delete it, then start writing!' — 1 comment, category Uncategorized, author 'first'. Leftover cruft, publicly accessible.",
+      "images": []
+    },
+    {
+      "title": "Uncategorized category archive",
+      "url": "https://skmachineriesinternational.com/category/uncategorized/",
+      "contentSummary": "Archive listing only the default 'Hello world!' post. Cruft.",
+      "images": []
+    },
+    {
+      "title": "Author archive: first",
+      "url": "https://skmachineriesinternational.com/author/first/",
+      "contentSummary": "Author archive for user 'first'; lists only the default 'Hello world!' post. Cruft.",
+      "images": []
+    }
+  ],
+  "sitemapPages": [
+    "https://skmachineriesinternational.com/",
+    "https://skmachineriesinternational.com/about-us-2/",
+    "https://skmachineriesinternational.com/ctp-product/",
+    "https://skmachineriesinternational.com/handok-product/",
+    "https://skmachineriesinternational.com/itr-product/",
+    "https://skmachineriesinternational.com/jic-product/",
+    "https://skmachineriesinternational.com/certification/",
+    "https://skmachineriesinternational.com/contact-us/",
+    "https://skmachineriesinternational.com/webmail/",
+    "https://skmachineriesinternational.com/hello-world/",
+    "https://skmachineriesinternational.com/category/uncategorized/",
+    "https://skmachineriesinternational.com/author/first/"
+  ],
+  "mediaLibrary": {
+    "totalAttachments": 298,
+    "altTexts": "ALL EMPTY",
+    "urls": [
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/cropped-output-onlinepngtools-14.png",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/09/chairman.jpg",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/09/IMG-0561.jpg",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/09/contact2.jpg",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/09/contact.jpg",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/09/CATALOGUE2019_page-0013.jpg",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/09/CATALOGUE2019_page-0012.jpg",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/09/CATALOGUE2019_page-0011.jpg",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/09/CATALOGUE2019_page-0009.jpg",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/09/CATALOGUE2019_page-0008.jpg",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/09/CATALOGUE2019_page-0007.jpg",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/09/CATALOGUE2019_page-0006.jpg",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/09/CATALOGUE2019_page-0005.jpg",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/09/CATALOGUE2019_page-0004.jpg",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/09/CATALOGUE2019_page-0002.jpg",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/09/CATALOGUE2019_page-0001.jpg",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/cotter-pins.png",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/seats.png",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/grease-gun-kit-f-720-159_ctp_costex.jpg.png",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/cables.jpg.png",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/friction-discs-header.jpg.png",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/Actuators-header.jpg.png",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/repair-kits.jpg",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/ring-kits-f-720-032_ctp_costex.jpg.png",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/abc-gasket-kits-top.png",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/filters20indicators-header.jpg.png",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/fuel-filters-header.jpg.png",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/strainers-f-720-146.jpg.png",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/air-filters-f-720-030.jpg.png",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/oil-coolers-header.jpg.png",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/water-pumps-f-720-256.jpg.png",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/radiator-core-header.jpg.png",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/fan-radiator-cooling-fans-header.jpg.png",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/self-locking-nylon-patch-f-720-113_ctp_costex.jpg.png",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/revet.png",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/woodruff-key-header.jpg.png",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/pins-retainers-header.jpg.png",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/bulldozer20blades-end-bits-for-komatsu-f-720-260_ctp_costex.jpg.png",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/self-sharpening-teeth-f-720-092_ctp_costex.jpg.png",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/end-bits.png.png",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/rollers-f-720-028.jpg.png",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/track-adjusters-f-720-063.jpg.png",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/track-links.png",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/idlers-header.jpg.png",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/frames.jpg",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/bogies-f-720-074.jpg.png",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/bogie-pins.jpg.png",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/equalizer-bar-f-720-042_ctp_costex.jpg.png",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/ctp.png",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/C844529.jpg",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/fuel-lines-komatsu-f-720-278.jpg.png",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/glow-plugs-f-720-027.jpg.png",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/electrical-terminals-header.jpg.png",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/hydraulic-cylinders.jpg.png",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/hydraulic-pumps.jpg.png",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/joint20spider.png",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/chains.png",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/REMANUFACTURED20BLOCKS.png",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/seals-kits-header.jpg.png",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/fuel20nozle.png",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/fuel20injector.png",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/alternators.png",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/CARTRIDGES.png",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/hoses.png",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/carriers.png",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/stator.png",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/liner20kits.png",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/piston20kits.png",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/imageedit_3_4336580832.png",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/undercarriage-01.jpg",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/undercarriage-main-banner-1.jpg",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/track-shoe-2.jpg",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/track-shoe-1.jpg",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/track-guard-2.jpg",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/track-guard-1.jpg",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/Track-adjuster-3.jpg",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/Track-adjuster-2.jpg",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/Track-adjuster-1.jpg",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/Teeth-Adapter-3.jpg",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/Teeth-Adapter-2.jpg",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/Teeth-Adapter-1.jpg",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/sealkit.jpg",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/Recoil-spring.jpg",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/idler.jpg",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/breaker-tools.jpg",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/Banner-24.jpg",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/Banner-23.jpg",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/Banner-22.jpg",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/Banner-21-1.jpg",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/Banner-20-1.jpg",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/Banner-19.jpg",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/Banner-18.jpg",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/Banner-16.jpg",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/Banner-15.jpg",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/Banner-14-1.jpg",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/Banner-13.jpg",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/Banner-10.jpg",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/Banner-08.jpg",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/Banner-07.jpg",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/Banner-06.jpg",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/Banner-05.jpg",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/Banner-04.jpg",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/Banner-03.jpg",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/undercarriage-main-banner-2.jpg",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/Banner-21.jpg",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/Banner-20.jpg",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/Banner-14.jpg",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/Banner-17.jpg",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/Banner-12.jpg",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/Banner-11.jpg",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/Banner-02.jpg",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/Banner-01.jpg",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/Banner-09.jpg",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/image-1-1.png",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/04-more.gif",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/03-more.gif",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/02-more.gif",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/01-more.gif",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/04-3-1.gif",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/03-3.gif",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/02-3.gif",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/01-3.gif",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/04-4-2.gif",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/03-4-2.gif",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/02-4-2.gif",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/01-4-1.gif",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/using-wax-seal-graduation-diploma-certificate.jpg",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/about.png",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/contact.png",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/golden-correct-tick-mark-sign-best-quality-assurance-with-golden-five-stars-guarantee-product-iso-service-concept-by-3d-render.jpg",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/04-4-1.gif",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/03-4-1.gif",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/02-4-1.gif",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/01-4.gif",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/04-5.gif",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/03-5-1.gif",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/02-5.gif",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/01-5.gif",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/04-6-1.gif",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/03-6-1.gif",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/02-6.gif",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/01-6.gif",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/04-7.gif",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/03-7.gif",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/02-7.gif",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/01-1.gif",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/04-8-1.gif",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/03-8.gif",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/02-8.gif",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/01-7.gif",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/04-2.gif",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/03-2-1.gif",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/02-2-1.gif",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/01-2.gif",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/04-1.gif",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/03-9.gif",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/02-9.gif",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/01-8-1.gif",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/04.gif",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/03.gif",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/02.gif",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/01.gif",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/terminals.gif",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/glow-plugs.gif",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/batteries.gif",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/alternators.gif",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/pumps.gif",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/hoses.gif",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/cylinders-1.gif",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/cartridges.gif",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/startors-1.gif",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/spiders-joints.gif",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/chains.gif",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/carriers-1.gif",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/products-liner_kit.gif",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/products-con_rods-1.gif",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/products-block.gif",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/products-piston.gif",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/more-products.jpg",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/rubber-tracks.jpg",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/braking.jpg",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/filters.jpg",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/cooling-systems.jpg",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/hardware.jpg",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/get.jpg",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/undercarriage.jpg",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/frame-body.jpg",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/fuel-injection.jpg",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/electrical.jpg",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/hydraulics.jpg",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/power-train.jpg",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/engine-comp.jpg",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/750x405-3.jpg",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/750x405.jpg",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/750x405-4.jpg",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/750x405-2.jpg",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/skm-1.jpg",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/05-3.jpg",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/04-4.jpg",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/05-2.jpg",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/04-3.jpg",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/05-1.jpg",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/04-2.jpg",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/04-1.jpg",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/01-6.jpg",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/image-2.png",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/about-us-1.jpg",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/about-us.jpg",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/288x415.jpg",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/288x415-2.jpg",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/672x359.jpg",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/handok-1.jpg",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/CTP-1.jpg",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/agile-methodology-for-design.jpg",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/skm.jpg",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/03-4.jpg",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/02-4.jpg",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/01-5.jpg",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/03-3.jpg",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/02-3.jpg",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/01-4.jpg",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/01-1.jpg",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/03-2.jpg",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/02-2.jpg",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/01-3.jpg",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/05.jpg",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/03-1.jpg",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/02-1.jpg",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/01-2.jpg",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/image.png",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/image-1.png",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/icons8-phone-24.png",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/startors.gif",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/products-con_rods.gif",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/cylinders.gif",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/carriers.gif",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/04-8.gif",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/04-6.gif",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/04-4.gif",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/04-3.gif",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/03-6.gif",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/03-5.gif",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/03-4.gif",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/03-2.gif",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/02-4.gif",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/02-2.gif",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/02-1.gif",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/01-8.gif",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/636237391704721597.jpg",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/636237391063317711.jpg",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/636237390885505873.jpg",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/imageedit_28_6091268081.png",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/imageedit_23_3211196284.png",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/imageedit_21_7611430781.png",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/imageedit_18_9395043443.png",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/imageedit_9_3936237274.png",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/imageedit_7_8019680349.png",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/imageedit_4_2175024828.png",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/637842365163135794.jpeg",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/image2.jpg",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/handk.jpg",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/CTP.jpg",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/b.jpg",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/LOGO-removebg-preview.png",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/04.jpg",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/03.jpg",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/02.jpg",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/01.jpg",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/market.jpg",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/ezgif.com-gif-maker.png",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/ezgif.com-gif-maker.jpg",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/mission34.jpg",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/pexels-pixabay-416816.jpg",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/vision-and-mission-banner.jpg",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/mission2.jpg",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/vission.jpeg",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/mission.jpg",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/chairman.jpg",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/team-2.jpg",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/team-5.jpg",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/team-3.jpg",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/team-4.jpg",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/team-1.jpg",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/linebgoverlay.png",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/icon.png",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/career.jpg",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/677x508.jpg",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/testimonial.jpg",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/gallery.jpg",
+      "https://skmachineriesinternational.com/wp-content/uploads/2022/08/contact-scaled.jpg"
+    ]
+  },
+  "duplicatesAndCrossListings": [
+    "'Liner Kits' card appears twice within the CTP page Engine Components carousel",
+    "Homepage re-publishes 10 CTP cards, 12 HANDOK cards and 15 ITR cards verbatim from the brand pages (37 cross-listings)",
+    "CTP 'FUEL INJECTION' section intro duplicates the 'Electrical Parts' intro verbatim (source content error)",
+    "CTP 'Hydraulic Seal Kits' description duplicates the 'Multi-Purpose O-Ring Kits' text (O-Ring/Nitrile 75 copy)",
+    "Homepage 'Batteries' card absent — 'Alternators' + 'Batteries' section only on CTP page; home shows 'Alternators' only"
+  ],
+  "gaps": [
+    "NO individual product detail pages exist anywhere; every product 'learn more' button is either href='#' (Handok 20 cards, JIC Load More) or links back to the same brand page (?page_id=1455/1457/1459) — no product URLs, no SKUs, no prices",
+    "CTP page: all 14 'CATALOG FOR CTP & HANDOK' carousels have empty slides (swiper-slide-bg with no image configured)",
+    "Handok and ITR product cards have NO images despite matching images existing unused in the media library (piston20kits.png, liner20kits.png, Teeth-Adapter-1/2/3.jpg, Track-adjuster-1/2/3.jpg, track-guard-1/2.jpg, track-shoe-1/2.jpg, sealkit.jpg, Recoil-spring.jpg, breaker-tools.jpg, undercarriage*.jpg, idler.jpg, etc.)",
+    "ITR cards (15) and Handok cards (20) have no real descriptions — Handok shows model numbers only, ITR shows titles only",
+    "JIC gallery 'Load More' is dead (href '#'); 5 uploaded CATALOGUE2019 pages (0008,0009,0011,0012,0013) never display; 0003 and 0010 missing from library",
+    "All social icons (Facebook/Twitter/Youtube, header + footer) have EMPTY href attributes — no social profiles linked",
+    "No Google Map embed, no opening hours, no WhatsApp contact anywhere",
+    "All 298 media library items have EMPTY alt text; no captions or descriptions",
+    "Homepage 'CATALOG FOR ITR, JIC, CTP & HANDOK' slider and 'who we are' slider contain empty image-less slides",
+    "Default WordPress content is publicly live: /hello-world/, /category/uncategorized/, /author/first/",
+    "WEBMAIL nav item exposes the hosting cPanel webmail login (:2096) in the public menu",
+    "Source typos to preserve or fix during redesign: 'Prorotional' (promotional), 'cuf off' (cut-off), 'New Holand' (New Holland), 'Asbesto-Free', 'out of specks' (specs), 'Breaking replacement parts' (Braking), 'theerosion' (the erosion)",
+    "Contact form: First Name and Last Name inputs share the same name attribute 'your-name' (CF7 misconfiguration)",
+    "'View More Work' button on homepage links to the About page (?page_id=1453), not a work/portfolio page",
+    "Certificate images on /certification/ have no captions; CTP/Handok attribution inferred from DOM order only",
+    "Media library contains ~100 unused images (team-1..5.jpg, mission/vision files, testimonial.jpg, gallery.jpg, career.jpg, contact.jpg/contact2.jpg/skmm-1.jpg, Banner-04/05/06/10/22, many numbered gif/jpg catalogue scans) — leftovers, not displayed on any page",
+    "No mission/vision/history/statistics text anywhere on the site"
+  ],
+  "inaccessible": [
+    "No pages returned 404 during the crawl (test of a non-existent URL returned HTTP 404 correctly).",
+    "https://skmachineriesinternational.com:2096/ (cPanel webmail) — not crawled; login portal, out of scope.",
+    "No other URLs were blocked; robots.txt only disallows /wp-admin/."
+  ],
+  "crawlingNotes": [
+    "Fetch method: mcp webReader + curl raw HTML (both succeeded on all pages).",
+    "Pagination: none needed — no paginated archives exist (only 1 post).",
+    "Elementor images are lazy-loaded via data-src; both src and data-src captured.",
+    "LiteSpeed UCSS merged CSS files contain NO upload background-image URLs — verified product cards genuinely have no images in CSS either.",
+    "Infrastructure fetched: robots.txt, wp-sitemap.xml + 4 sub-sitemaps, /wp-json/wp/v2/pages, /wp-json/wp/v2/media (3 pages), 3 LiteSpeed UCSS files, 1 test-404 URL.",
+    "Raw page HTML snapshots saved locally under sk-machineries-research/data/ for verification.",
+    "WP media REST endpoint intermittently returned fewer items than the reported X-WP-Total of 298 (best union achieved: 290 unique attachment URLs across multiple retries). mediaLibrary.urls is the verified union; up to 8 additional attachments may exist that could not be retrieved."
+  ],
+  "counts": {
+    "pagesFetched": 12,
+    "pagesFetchedList": [
+      "/ (home)",
+      "/about-us-2/",
+      "/ctp-product/",
+      "/handok-product/",
+      "/itr-product/",
+      "/jic-product/",
+      "/certification/",
+      "/contact-us/",
+      "/webmail/",
+      "/hello-world/",
+      "/category/uncategorized/",
+      "/author/first/"
+    ],
+    "infrastructureRequests": 19,
+    "categories": 4,
+    "cruftCategories": 1,
+    "products": 118,
+    "productsCTP": 83,
+    "productsHandok": 20,
+    "productsITR": 15,
+    "productsJIC": 0,
+    "productsWithDescriptions": 83,
+    "productsWithoutRealDescriptions": 35,
+    "productImagesOnProductPages": 0,
+    "uniqueUploadURLsReferencedByPages": 146,
+    "uniqueOriginalUploadImagesReferenced": 57,
+    "mediaLibraryItems": 290,
+    "jicCatalogueImagesDisplayed": 6,
+    "jicCatalogueImagesInLibrary": 11
+  }
+}
